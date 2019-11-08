@@ -1,5 +1,5 @@
 # Microsoft for Startups Technical Onboarding
-TOC and steps will go here.
+
 
 
 ## Contributing
