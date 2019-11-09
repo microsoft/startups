@@ -1,4 +1,14 @@
-# Microsoft for Startups Technical Onboarding
+# Startups Azure Migration Guide
+
+
+## Stuff we should reference
+Section on Walkthroughs
+Main content is the taxonomy of service types (workloads) with links to docs/tutorials with each one
+Curate in some things that aren't obvious things people want, like Cloud Shell, CLI. Wording should illustrate the value of it.
+On every link, if we can have a sentence or two, something about what it is. Like Cloud Shell.
+
+## Migrating from AWS?
+Here is a comparison of the services on AWS and Azure. https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 
 
 
