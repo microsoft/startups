@@ -23,10 +23,10 @@ The purpose of this guide is to get you the information you need for a successfu
 - [Migrating from AWS?](#migrating-from-aws)
 
 <!-- /TOC -->
-# Build Azure skills
+## Build Azure skills
 MS Learn provides [step-by-step guidance](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path) for using Azure services, including managing resources, creating serverless applications, managing security, and more.
 
-# Azure services
+## Azure services
 Azure provides a very rich set of services that cover many different scenarios. Each service has extensive documentation, which include helpful resources, like quickstarts, tutorials, and samples.
 
 ### AI and ML
@@ -155,5 +155,5 @@ Azure provides a very rich set of services that cover many different scenarios. 
 | [Azure Blockchain Workbench](https://docs.microsoft.com/en-us/azure/blockchain/workbench/) | |
 
 
-# Migrating from AWS?
+## Migrating from AWS?
 Here is a comparison of the services on AWS and Azure. https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
