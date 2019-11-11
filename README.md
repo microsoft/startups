@@ -29,7 +29,7 @@ MS Learn provides [step-by-step guidance](https://docs.microsoft.com/en-us/learn
 This is a curated list of Azure services and links to their documentation. The docs include helpful resources, like quickstarts, tutorials, and samples.
 
 ## AI and ML
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/)                |       |
 | [Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/)                    |       |
@@ -42,7 +42,7 @@ This is a curated list of Azure services and links to their documentation. The d
 
 
 ## Infrastructure management and Automation
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [App Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/) | |
 | [Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/) | |
@@ -56,7 +56,7 @@ This is a curated list of Azure services and links to their documentation. The d
 | [Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview) | |
 
 ## Data Engineering
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/) | |
 | [Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/) | |
@@ -67,7 +67,7 @@ This is a curated list of Azure services and links to their documentation. The d
 | [Event Hubs](https://docs.microsoft.com/en-us/azure/event-hubs/) | |
 
 ## Compute
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [App Service](https://docs.microsoft.com/en-us/azure/app-service/) | |
 | [Batch](https://docs.microsoft.com/en-us/azure/batch/) | |
@@ -77,7 +77,7 @@ This is a curated list of Azure services and links to their documentation. The d
 | [Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/) | |
 
 ## Databases
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/) | |
 | [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/) | |
@@ -89,7 +89,7 @@ This is a curated list of Azure services and links to their documentation. The d
 | [Azure Database Migration Service](https://docs.microsoft.com/en-us/azure/dms/dms-overview) | |
 
 ## Containers
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure Kubernetes Service (AKS) | |](https://docs.microsoft.com/en-us/azure/aks/) | |
 | [Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/) | |
@@ -97,21 +97,21 @@ This is a curated list of Azure services and links to their documentation. The d
 | [Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/containers/) | |
 
 ## Internet of Things
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/) | |
 | [IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/) | |
 | [Azure Sphere](https://docs.microsoft.com/en-us/azure-sphere/) | |
 
 ## Networking
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/) | |
 | [Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/) | |
 | [Azure Front Door Service](https://docs.microsoft.com/en-us/azure/frontdoor/) | |
 
 ## Security
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/) | |
 | [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/) | |
@@ -119,13 +119,13 @@ This is a curated list of Azure services and links to their documentation. The d
 | [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview) | |
 
 ## Source management
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/) | |
 | [GitHub](https://github.com/) | |
 
 ## Storage
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Storage](https://docs.microsoft.com/en-us/azure/storage/) | |
 | [Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction/) | |
@@ -134,21 +134,21 @@ This is a curated list of Azure services and links to their documentation. The d
 | [Queue Storage](https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction/) | |
 
 ## Testing / CI / CD
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure Lab Services](https://docs.microsoft.com/en-us/azure/lab-services/) | |
 | [Azure DevOps Projects](https://docs.microsoft.com/en-us/azure/devops-project) | |
 | [Azure Dev Spaces](https://docs.microsoft.com/en-us/azure/dev-spaces/) | |
 
 ## Web
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [App Service - Web Apps](https://docs.microsoft.com/en-us/azure/app-service-web) | |
 | [Azure SignalR Service](https://docs.microsoft.com/en-us/azure/azure-signalr) | |
 | [API Apps](https://docs.microsoft.com/en-us/azure/app-service-api) | |
 
 ## Blockchain
-| Service                                                                                         | Notes |
+| Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure Blockchain Service](https://docs.microsoft.com/en-us/azure/blockchain/service/) | |
 | [Azure Blockchain Workbench](https://docs.microsoft.com/en-us/azure/blockchain/workbench/) | |
