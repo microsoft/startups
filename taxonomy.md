@@ -1,12 +1,3 @@
-# Startups Azure Migration Guide
-The purpose of this guide is to get you the information you need for a successful migration to Azure.
-
-## Build Azure skills
-MS Learn provides [step-by-step guidance](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path) for using Azure services, including managing resources, creating serverless applications, managing security, and more. 
-
-## Azure services documentation
-This is a curated list of Azure services and links to their documentation. The docs include helpful resources, like quickstarts, tutorials, and samples.
-
 ### AI ML
 - [Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/)
 - [Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/)
@@ -76,12 +67,12 @@ This is a curated list of Azure services and links to their documentation. The d
 - [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/)
 - [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/)
 - [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview)
-
+-
 ### Source management
 - [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/)
 - [GitHub](https://github.com/)
 
-### Storage
+### Storage]()
 - [Storage](https://docs.microsoft.com/en-us/azure/storage/)
 - [Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction/)
 - [Disk Storage](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
@@ -101,6 +92,3 @@ This is a curated list of Azure services and links to their documentation. The d
 ### Blockchain
 - [Azure Blockchain Service](https://docs.microsoft.com/en-us/azure/blockchain/service/)
 - [Azure Blockchain Workbench](https://docs.microsoft.com/en-us/azure/blockchain/workbench/)
-
-## Migrating from AWS?
-Here is a comparison of the services on AWS and Azure. https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
