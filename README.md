@@ -1,6 +1,5 @@
 # Startups Azure Migration Guide
 
-
 ## Stuff we should reference
 Section on Walkthroughs
 Main content is the taxonomy of service types (workloads) with links to docs/tutorials with each one
