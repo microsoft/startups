@@ -1,4 +1,4 @@
-# Startups Azure Migration Guide
+# Startups Guide to Azure
 The purpose of this guide is to get you the information you need for a successful migration to Azure.
 
 ## Azure services
