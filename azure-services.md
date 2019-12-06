@@ -1,4 +1,5 @@
 # Azure services
+Azure has a broad range of services that cover many different scenarios. This curated list of Azure services identifies a subset of the services that are particularly relevant to startups.
 
 ### AI and ML
 | Service                                                                                         | What it does |

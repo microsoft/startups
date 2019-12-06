@@ -17,7 +17,7 @@ Welcome!
 - [Manage security](https://docs.microsoft.com/en-us/users/robertstandefer-8146/collections/wpmzto4or14yk)
 
 ## Azure services
-Azure has a broad range of services that cover many different scenarios. The [curated list of services](azure-services.md) identifies a subset of the services that are particularly relevant to startups.
+Azure has a broad range of services that cover many different scenarios. The curated [list of services](azure-services.md) identifies a subset of the services that are particularly relevant to startups.
 
 ## Migrating from AWS?
 Here is a comparison of the services on AWS and Azure. https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
