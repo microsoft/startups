@@ -19,7 +19,7 @@ Welcome!
 ## Azure services
 Azure has a broad range of services that cover many different scenarios. The [curated list of services](services.md) identifies a subset of the services that are particularly relevant to startups.
 
-Azure provides a [very rich set of services](services.md) that cover many different scenarios. Each service has extensive documentation, which include helpful resources, like quickstarts, tutorials, and samples.
+Azure provides a [very rich set of services](azure-services.md) that cover many different scenarios. Each service has extensive documentation, which include helpful resources, like quickstarts, tutorials, and samples.
 
 ## Migrating from AWS?
 Here is a comparison of the services on AWS and Azure. https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
