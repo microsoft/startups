@@ -1,7 +1,7 @@
 # Azure services
 Azure has a broad range of services that cover many different scenarios. This curated list of Azure services identifies a subset of the services that are particularly relevant to startups.
 
-### AI and ML
+## AI and ML
 | Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/)                |       |
@@ -12,9 +12,55 @@ Azure has a broad range of services that cover many different scenarios. This cu
 | [Azure Cognitive Search](https://docs.microsoft.com/en-us/azure/search/)                        |       |
 | [Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets)                           |       |
 
+## Blockchain
+| Service                                                                                         | What it does |
+| ----------------------------------------------------------------------------------------------  | ----  |
+| [Azure Blockchain Service](https://docs.microsoft.com/en-us/azure/blockchain/service/) | |
+| [Azure Blockchain Workbench](https://docs.microsoft.com/en-us/azure/blockchain/workbench/) | |
+
+## Compute
+| Service                                                                                         | What it does |
+| ----------------------------------------------------------------------------------------------  | ----  |
+| [App Service](https://docs.microsoft.com/en-us/azure/app-service/) | |
+| [Batch](https://docs.microsoft.com/en-us/azure/batch/) | |
+| [Cloud Services]() | |
+| [Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) | |
+| [Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) | |
+| [Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/) | |
+
+## Containers
+| Service                                                                                         | What it does |
+| ----------------------------------------------------------------------------------------------  | ----  |
+| [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/) | |
+| [Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/) | |
+| [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/) | |
+| [Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/containers/) | |
+
+## Databases
+| Service                                                                                         | What it does |
+| ----------------------------------------------------------------------------------------------  | ----  |
+| [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/) | |
+| [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/) | |
+| [Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) | |
+| [Azure Cache for Redis](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/) | |
+| [Table Storage](https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-overview) | |
+| [Azure Database for PostreSQL](https://docs.microsoft.com/en-us/azure/postgresql/) | |
+| [Azure Database for MySQL](https://docs.microsoft.com/en-us/azure/mysql/) | |
+| [Azure Database Migration Service](https://docs.microsoft.com/en-us/azure/dms/dms-overview) | |
+
+## Data Engineering
+| Service                                                                                         | What it does |
+| ----------------------------------------------------------------------------------------------  | ----  |
+| [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/) | |
+| [Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/) | |
+| [Apache Spark](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-overview) | |
+| [Apache Storm](https://docs.microsoft.com/en-us/azure/hdinsight/storm/apache-storm-overview) | |
+| [Azure Data Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/) | |
+| [Stream Analytics](https://docs.microsoft.com/en-us/azure/stream-analytics/) | |
+| [Event Hubs](https://docs.microsoft.com/en-us/azure/event-hubs/) | |
 
 
-### Infrastructure management and Automation
+## Infrastructure management and Automation
 | Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [App Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/) | |
@@ -28,62 +74,21 @@ Azure has a broad range of services that cover many different scenarios. This cu
 | [SDK](https://docs.microsoft.com/en-us/azure/sdks/index) | |
 | [Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview) | |
 
-### Data Engineering
-| Service                                                                                         | What it does |
-| ----------------------------------------------------------------------------------------------  | ----  |
-| [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/) | |
-| [Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/) | |
-| [Apache Spark](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-overview) | |
-| [Apache Storm](https://docs.microsoft.com/en-us/azure/hdinsight/storm/apache-storm-overview) | |
-| [Azure Data Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/) | |
-| [Stream Analytics](https://docs.microsoft.com/en-us/azure/stream-analytics/) | |
-| [Event Hubs](https://docs.microsoft.com/en-us/azure/event-hubs/) | |
-
-### Compute
-| Service                                                                                         | What it does |
-| ----------------------------------------------------------------------------------------------  | ----  |
-| [App Service](https://docs.microsoft.com/en-us/azure/app-service/) | |
-| [Batch](https://docs.microsoft.com/en-us/azure/batch/) | |
-| [Cloud Services]() | |
-| [Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) | |
-| [Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) | |
-| [Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/) | |
-
-### Databases
-| Service                                                                                         | What it does |
-| ----------------------------------------------------------------------------------------------  | ----  |
-| [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/) | |
-| [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/) | |
-| [Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) | |
-| [Azure Cache for Redis](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/) | |
-| [Table Storage](https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-overview) | |
-| [Azure Database for PostreSQL](https://docs.microsoft.com/en-us/azure/postgresql/) | |
-| [Azure Database for MySQL](https://docs.microsoft.com/en-us/azure/mysql/) | |
-| [Azure Database Migration Service](https://docs.microsoft.com/en-us/azure/dms/dms-overview) | |
-
-### Containers
-| Service                                                                                         | What it does |
-| ----------------------------------------------------------------------------------------------  | ----  |
-| [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/) | |
-| [Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/) | |
-| [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/) | |
-| [Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/containers/) | |
-
-### Internet of Things
+## Internet of Things
 | Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/) | |
 | [IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/) | |
 | [Azure Sphere](https://docs.microsoft.com/en-us/azure-sphere/) | |
 
-### Networking
+## Networking
 | Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/) | |
 | [Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/) | |
 | [Azure Front Door Service](https://docs.microsoft.com/en-us/azure/frontdoor/) | |
 
-### Security
+## Security
 | Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/) | |
@@ -91,13 +96,13 @@ Azure has a broad range of services that cover many different scenarios. This cu
 | [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/) | |
 | [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview) | |
 
-### Source management
+## Source management
 | Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/) | |
 | [GitHub](https://github.com/) | |
 
-### Storage
+## Storage
 | Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Storage](https://docs.microsoft.com/en-us/azure/storage/) | |
@@ -106,22 +111,16 @@ Azure has a broad range of services that cover many different scenarios. This cu
 | [Managed Disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview) | |
 | [Queue Storage](https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction/) | |
 
-### Testing / CI / CD
+## Testing / CI / CD
 | Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure Lab Services](https://docs.microsoft.com/en-us/azure/lab-services/) | |
 | [Azure DevOps Projects](https://docs.microsoft.com/en-us/azure/devops-project) | |
 | [Azure Dev Spaces](https://docs.microsoft.com/en-us/azure/dev-spaces/) | |
 
-### Web
+## Web
 | Service                                                                                         | What it does |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [App Service - Web Apps](https://docs.microsoft.com/en-us/azure/app-service-web) | |
 | [Azure SignalR Service](https://docs.microsoft.com/en-us/azure/azure-signalr) | |
 | [API Apps](https://docs.microsoft.com/en-us/azure/app-service-api) | |
-
-### Blockchain
-| Service                                                                                         | What it does |
-| ----------------------------------------------------------------------------------------------  | ----  |
-| [Azure Blockchain Service](https://docs.microsoft.com/en-us/azure/blockchain/service/) | |
-| [Azure Blockchain Workbench](https://docs.microsoft.com/en-us/azure/blockchain/workbench/) | |
