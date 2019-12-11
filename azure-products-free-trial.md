@@ -1,7 +1,7 @@
 # Free trial products
 These products are free for 12 months after you sign up with Azure.
 
-## AI and Machine Learning
+### AI and Machine Learning
 | Product                                                                                         | What you can do with it |
 | :---  | :---   |
 | [Computer Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/index) | Extract rich information from images to categorize and process visual data |
@@ -17,19 +17,19 @@ These products are free for 12 months after you sign up with Azure.
 | [QnA Maker](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/index) | Create a conversational question-and-answer bot from your existing content |
 | [Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/index) | Extract information such as sentiment, key phrases, named entities, and language from your text |
 
-## Compute
+### Compute
 | Product                                                                                         | What you can do with it |
 | :---  | :---   |
 | [Linux Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) | Create Linux virtual machines with on-demand capacity |
 | [Windows Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/) | Create Windows virtual machines with on-demand capacity |
 
-## Databases
+### Databases
 | Product                                                                                         | What you can do with it |
 | :---  | :---   |
 | [SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/) | Create a relational database with intelligence built-in |
 | [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/) | Build and scale your application with a globally distributed, multi-model database service |
 
-## Storage
+### Storage
 | Product                                                                                         | What you can do with it |
 | :---  | :---   |
 | [Managed Disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview) | Get premium, secured disk storage for Azure Virtual Machines with simplified management |
