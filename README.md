@@ -30,12 +30,10 @@ With an Azure subscription, you get access to all of the free products and the p
 - [Storage](azure-products.md#storage)
 - [Web](azure-products.md#web)
 
-All of the products are compiled in [Azure products](azure-products.md).
+All of the products are compiled in the full curated list of [Azure products](azure-products.md).
 
 ## Learn about how to use Azure
-With your Azure account created and a list of products you want to use in mind, it's time to learn about how to use them.
-
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path) is a great resource for learning everything there is to know about Azure.
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path) is a great resource for learning about using Azure products.
 
 - [Get started with Azure](https://docs.microsoft.com/en-us/users/RobertStandefer-8146/collections/wpmzto47zxj3o)
 
