@@ -20,7 +20,7 @@ These products are included with your free Azure subscription.
 | [SQL Database Developer Edition](https://docs.microsoft.com/en-us/azure/sql-database)                                                                      | Build, test, and demostrate applications in a non-production SQL Server environment                         |
 
 
-## Developer Tools
+## Developer tools
 | Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/) | Manage source code, track work, build and deploy software |

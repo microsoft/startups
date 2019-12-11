@@ -1,24 +1,6 @@
 # Free trial products
 These products are free for 12 months after you sign up with Azure.
 
-## Compute
-| Product                                                                                         | What you can do with it |
-| ----------------------------------------------------------------------------------------------  | ----  |
-| [Linux Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) | Create Linux virtual machines with on-demand capacity |
-| [Windows Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/) | Create Windows virtual machines with on-demand capacity |
-
-## Storage
-| Product                                                                                         | What you can do with it |
-| ----------------------------------------------------------------------------------------------  | ----  |
-| [Managed Disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview) | Get premium, secured disk storage for Azure Virtual Machines with simplified management |
-| [Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction/) | Use massively scalable object storage for any type of unstructured data |
-
-## Databases
-| Product                                                                                         | What you can do with it |
-| ----------------------------------------------------------------------------------------------  | ----  |
-| [SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/) | Create a relational database with intelligence built-in |
-| [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/) | Build and scale your application with a globally distributed, multi-model database service |
-
 ## AI and Machine Learning
 | Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
@@ -34,3 +16,21 @@ These products are free for 12 months after you sign up with Azure.
 | [Language Understanding](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/index) | Build natural language understanding into apps, bots, and IoT devices |
 | [QnA Maker](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/index) | Create a conversational question-and-answer bot from your existing content |
 | [Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/index) | Extract information such as sentiment, key phrases, named entities, and language from your text |
+
+## Compute
+| Product                                                                                         | What you can do with it |
+| ----------------------------------------------------------------------------------------------  | ----  |
+| [Linux Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) | Create Linux virtual machines with on-demand capacity |
+| [Windows Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/) | Create Windows virtual machines with on-demand capacity |
+
+## Databases
+| Product                                                                                         | What you can do with it |
+| ----------------------------------------------------------------------------------------------  | ----  |
+| [SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/) | Create a relational database with intelligence built-in |
+| [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/) | Build and scale your application with a globally distributed, multi-model database service |
+
+## Storage
+| Product                                                                                         | What you can do with it |
+| ----------------------------------------------------------------------------------------------  | ----  |
+| [Managed Disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview) | Get premium, secured disk storage for Azure Virtual Machines with simplified management |
+| [Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction/) | Use massively scalable object storage for any type of unstructured data |
