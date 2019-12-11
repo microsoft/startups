@@ -1,12 +1,12 @@
 # Startups guide to Azure
 This repo provides startups with Azure guidance, information, and resources. Whether you're creating something brand new, you're considering a move from another cloud provider, you want to leverage Azure services, you're refactoring your architecture, or you're throwing everything away and starting over, this guide will help you.
 
-## Getting started with Azure for free
-Azure has lots of services included in the free tier.
-`TODO: Explain the free tier. Some services are free for 12 months, others are always free. Curate the list.`
-`TODO: Could the MS Learn collections be aligned specifically with the free tier services?`
+## Getting started with Azure
+You can quickly get started with Azure by [creating a free account](https://azure.microsoft.com/en-us/). The free account includes access to many [products for free](azure-products-free.md). [Other products](azure-products-free-trial.md) are offered with a 12 month trial, after which they are paid services. The free Azure products are always free. You also get $200 in credits for the first 30 days.
 
-## Learn about Azure
+If you already have an Azure subscription, you can learn more about the [Azure products](azure-products.md) that are available with your subscription.
+
+## Learn about how to use Azure
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path) is a great resource for learning everything there is to know about Azure.
 
 - [Get started with Azure](https://docs.microsoft.com/en-us/users/RobertStandefer-8146/collections/wpmzto47zxj3o)
