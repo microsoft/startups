@@ -2,54 +2,52 @@
 Azure has a broad range of products that cover many different scenarios. This curated list identifies a subset of the Azure products that are particularly relevant to startups.
 
 ## AI and ML
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
-| [Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/)                |       |
-| [Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/)                    |       |
-| [Machine Learning Services](https://docs.microsoft.com/en-us/azure/machine-learning/service)    |       |
-| [Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/studio)       |       |
-| [Azure Bot Service](https://docs.microsoft.com/bot-framework/bot-service-overview-introduction) |       |
-| [Azure Cognitive Search](https://docs.microsoft.com/en-us/azure/search/)                        |       |
-| [Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets)                           |       |
+| [Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/)                | Build intelligent and supported algorithms into apps, websites, and bots to see, hear, speak, understand, and interpret your user needs      |
+| [Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/)                    | Train and deploy your machine learning models and pipelines at scale      |
+| [Azure Bot Service](https://docs.microsoft.com/bot-framework/bot-service-overview-introduction) | Build, test, deploy, and manage intelligent bots      |
+| [Azure Cognitive Search](https://docs.microsoft.com/en-us/azure/search/)                        | Add a rich search experience to your application and use cognitive skills to apply AI during indexing      |
+| [Open Datasets](https://docs.microsoft.com/en-us/azure/open-datasets)                           |  Add scenario-specific features to machine learning solutions for more accurate models     |
 
 ## Blockchain
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
-| [Azure Blockchain Service](https://docs.microsoft.com/en-us/azure/blockchain/service/) |  |
-| [Azure Blockchain Workbench](https://docs.microsoft.com/en-us/azure/blockchain/workbench/) |  |
+| [Azure Blockchain Service](https://docs.microsoft.com/en-us/azure/blockchain/service/) | Grow and operate blockchain networks at scale with support for the Ethereum Quorum ledger using the IBFT consensus mechanism |
+| [Azure Blockchain Workbench](https://docs.microsoft.com/en-us/azure/blockchain/workbench/) | Create and deploy blockchain applications  |
 
 ## Compute
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [App Service](https://docs.microsoft.com/en-us/azure/app-service/) | Build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure |
 | [Batch](https://docs.microsoft.com/en-us/azure/batch/) | Scale your application in the cloud with job orchestration and scheduling for HPC applications |
-| [Cloud Services]() |  |
+| [Cloud Services](https://docs.microsoft.com/en-us/azure/cloud-services/) | Create applications that are scalable, reliable, and inexpensive to operate  |
 | [Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) | Run event-triggered code without managing infrastructure |
 | [Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/) | Create Linux virtual machines with on-demand capacity |
 | [Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/) | Create Windows virtual machines with on-demand capacity |
 
 ## Containers
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/) | Deploy and manage containers using the tools you choose |
-| [Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/) |  |
-| [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/) |  |
-| [Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/containers/) |  |
+| [Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/) | Run Docker containers on-demand in a managed, serverless Azure environment |
+| [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/) | Build, store, and manage container images and artifacts in a private registry for all types of container deployments |
+| [Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/containers/) | Deploy and run containerized web apps |
 
 ## Databases
-| Product                                                                                     | What it does |
-| ------------------------------------------------------------------------------------------- | ------------ |
-| [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/)                  |  Create a relational database with intelligence built-in            |
-| [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/)                               | Build and scale your application with a globally distributed, multi-model database service             |
-| [Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/)                        | Compose and manage data services at scale             |
-| [Azure Cache for Redis](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/)      |              |
-| [Table Storage](https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-overview)    |              |
-| [Azure Database for PostreSQL](https://docs.microsoft.com/en-us/azure/postgresql/)          |              |
-| [Azure Database for MySQL](https://docs.microsoft.com/en-us/azure/mysql/)                   |              |
-| [Azure Database Migration Service](https://docs.microsoft.com/en-us/azure/dms/dms-overview) |              |
+| Product                                                                                     | What you can do with it                                                                    |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/)                  | Create a relational database with intelligence built-in                                    |
+| [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/)                               | Build and scale your application with a globally distributed, multi-model database service |
+| [Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/)                        | Compose and manage data services at scale                                                  |
+| [Azure Cache for Redis](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/)      | Fast storage in-memory with Redis for low-latency, high-throughput performance             |
+| [Table Storage](https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-overview)    | Store structured NoSQL data in a key/attribute store with a schemaless design              |
+| [Azure Database for PostreSQL](https://docs.microsoft.com/en-us/azure/postgresql/)          |
+| [Azure Database for MySQL](https://docs.microsoft.com/en-us/azure/mysql/)                   |
+| [Azure Database Migration Service](https://docs.microsoft.com/en-us/azure/dms/dms-overview) | Easily migrate from multiple database sources to Azure data platforms                                                                                           |
 
 ## Data Engineering
-| Product                                                                                      | What it does |
+| Product                                                                                      | What you can do with it |
 | -------------------------------------------------------------------------------------------- | ------------ |
 | [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/)                 |              |
 | [Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/)                         |              |
@@ -61,7 +59,7 @@ Azure has a broad range of products that cover many different scenarios. This cu
 
 
 ## Infrastructure management and Automation
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [App Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/) |  |
 | [Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/) |  |
@@ -75,21 +73,21 @@ Azure has a broad range of products that cover many different scenarios. This cu
 | [Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview) |  |
 
 ## Internet of Things
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/) |  |
 | [IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/) |  |
 | [Azure Sphere](https://docs.microsoft.com/en-us/azure-sphere/) |  |
 
 ## Networking
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/) |  |
 | [Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/) | Distribute network traffic across multiple virtual machines |
 | [Azure Front Door Service](https://docs.microsoft.com/en-us/azure/frontdoor/) |  |
 
 ## Security
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/) |  |
 | [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/) |  |
@@ -97,13 +95,13 @@ Azure has a broad range of products that cover many different scenarios. This cu
 | [Azure DDoS Protection](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview) |  |
 
 ## Source management
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/) | Manage source code, track work, build and deploy software |
 | [GitHub](https://github.com/) |  |
 
 ## Storage
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Storage](https://docs.microsoft.com/en-us/azure/storage/) |  |
 | [Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction/) | Use massively scalable object storage for any type of unstructured data |
@@ -112,14 +110,14 @@ Azure has a broad range of products that cover many different scenarios. This cu
 | [Queue Storage](https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction/) |  |
 
 ## Testing / CI / CD
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [Azure Lab Services](https://docs.microsoft.com/en-us/azure/lab-services/) |  |
 | [Azure DevOps Projects](https://docs.microsoft.com/en-us/azure/devops-project) |  |
 | [Azure Dev Spaces](https://docs.microsoft.com/en-us/azure/dev-spaces/) |  |
 
 ## Web
-| Product                                                                                         | What it does |
+| Product                                                                                         | What you can do with it |
 | ----------------------------------------------------------------------------------------------  | ----  |
 | [App Service - Web Apps](https://docs.microsoft.com/en-us/azure/app-service-web) |  |
 | [Azure SignalR Service](https://docs.microsoft.com/en-us/azure/azure-signalr) |  |
