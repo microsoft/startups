@@ -18,7 +18,7 @@ Azure has a broad range of products that cover many different scenarios. This cu
 
 ## Compute
 | Product                                                                        | What you can do with it                                                                                                                |
-| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | [App Service](https://docs.microsoft.com/en-us/azure/app-service/)             | Build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure |
 | [Batch](https://docs.microsoft.com/en-us/azure/batch/)                         | Scale applications in the cloud with job orchestration and scheduling for HPC applications                                             |
 | [Cloud Services](https://docs.microsoft.com/en-us/azure/cloud-services/)       | Create applications that are scalable, reliable, and inexpensive to operate                                                            |
@@ -36,7 +36,7 @@ Azure has a broad range of products that cover many different scenarios. This cu
 
 ## Databases
 | Product                                                                                     | What you can do with it                                                                    |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/)                  | Create a relational database with intelligence built-in                                    |
 | [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/)                               | Build and scale applications with a globally distributed, multi-model database service |
 | [Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/)                        | Compose and manage data services at scale                                                  |
@@ -48,7 +48,7 @@ Azure has a broad range of products that cover many different scenarios. This cu
 
 ## Data Engineering
 | Product                                                                                      | What you can do with it |
-| -------------------------------------------------------------------------------------------- | ------------ |
+| ---------------------------------------------------------------------------------------------- | ------------ |
 | [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/)                 | Use Azure Databricks to read data from multiple data sources and turn it into breakthrough insights using Spark             |
 | [Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/)                         | Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters            |
 | [Apache Spark for HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-overview) | Use Spark with HDInsight             |
@@ -59,13 +59,13 @@ Azure has a broad range of products that cover many different scenarios. This cu
 
 ## Developer tools
 | Product                                                                                         | What you can do with it |
-| ----------------------------------------------------------------------------------------------  | ----  |
+| ---------------------------------------------------------------------------------------------- | ----  |
 | [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/) | Manage source code, track work, build and deploy software |
 | [GitHub](https://github.com/) | Manage source code, track work, build and deploy software |
 
 ## Infrastructure management and automation
 | Product                                                                                         | What you can do with it |
-| ----------------------------------------------------------------------------------------------  | ----  |
+| ---------------------------------------------------------------------------------------------- | ----  |
 | [App Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/) | Centralize application and feature settings simply and securely |
 | [Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/) | Detect, triage, and diagnose issues in web apps and services |
 | [Scheduler](https://docs.microsoft.com/en-us/azure/scheduler/) | Run jobs on simple or complex recurring schedules |
