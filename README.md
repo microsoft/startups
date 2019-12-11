@@ -4,7 +4,9 @@ This repo provides startups with Azure guidance, information, and resources. Whe
 ## Getting started with Azure
 You can quickly get started with Azure by [creating a free account](https://azure.microsoft.com/en-us/). The free account includes access to many [products for free](azure-products-free.md). [Other products](azure-products-free-trial.md) are offered with a 12 month trial, after which they are paid services. The free Azure products are always free. You also get $200 in credits for the first 30 days.
 
-If you already have an Azure subscription, you can learn more about the [Azure products](azure-products.md) that are available with your subscription.
+## Azure products for startups
+
+Azure has a broad range of products that cover many different scenarios, capabilities, and needs. The curated [list of products](azure-products.md) identifies a set of the products that are particularly relevant to startups. Many of the products are available in the free tier, but most require a paid Azure subscription.
 
 ## Learn about how to use Azure
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path) is a great resource for learning everything there is to know about Azure.
@@ -20,9 +22,6 @@ If you already have an Azure subscription, you can learn more about the [Azure p
 - [Architect storage infrastructure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)
 
 - [Manage security](https://docs.microsoft.com/en-us/users/robertstandefer-8146/collections/wpmzto4or14yk)
-
-## Azure services
-Azure has a broad range of services that cover many different scenarios. The curated [list of services](azure-services.md) identifies a subset of the services that are particularly relevant to startups.
 
 ## Migrating from AWS?
 Here is a comparison of the services on AWS and Azure. https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
