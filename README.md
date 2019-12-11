@@ -7,21 +7,17 @@ You can quickly get started with Azure by [creating a free account](https://azur
 If you already have an Azure subscription, you don't need to create a new account.
 
 ## What does Azure have to offer?
-Azure has a broad range of products that cover many different scenarios, capabilities, and needs. To help you make sense of it all, we've compiled lists of the products with some info about what you can do with them.
+Azure has a broad range of products that cover many different scenarios, capabilities, and needs.
 
 With a free account, you get access to two tiers of products, *free* and *free for 12 months*:
 
 - [Products that are always free](azure-products-free.md)
 - [Products that are free for 12 months](azure-products-free-trial.md)
 
-With an Azure subscription, you get access to all of the free products and the products that are pay-as-you-go. This is a curated list of the Azure products that are particularly relevant to startups:
-
-- [Curated list of startup-relevant products](azure-products.md)
-
-The list is inclusive of the other two lists.
+With an Azure subscription, you get access to all of the free products and the products that are pay-as-you-go. To help you make sense of it all, we've compiled a [curated list of products](azure-products.md) that we think are particularly relevant to startups.
 
 ## Learn about how to use Azure
-With your Azure account and a list of products you want to use in mind, it's time to learn about how to use them.
+With your Azure account created and a list of products you want to use in mind, it's time to learn about how to use them.
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path) is a great resource for learning everything there is to know about Azure.
 
