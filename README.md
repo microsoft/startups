@@ -14,7 +14,23 @@ With a free account, you get access to two tiers of products, *free* and *free f
 - [Products that are always free](azure-products-free.md)
 - [Products that are free for 12 months](azure-products-free-trial.md)
 
-With an Azure subscription, you get access to all of the free products and the products that are pay-as-you-go. To help you make sense of it all, we've compiled a [curated list of products](azure-products.md) that we think are particularly relevant to startups.
+With an Azure subscription, you get access to all of the free products and the products that are pay-as-you-go. To help you make sense of it all, we've curated a list of Azure products that we think are particularly relevant to startups:
+
+- [AI and ML](azure-products.md#ai-and-ml)
+- [Blockchain](azure-products.md#blockchain)
+- [Compute](azure-products.md#compute)
+- [Containers](azure-products.md#containers)
+- [Databases](azure-products.md#databases)
+- [Data Engineering](azure-products.md#data-engineering)
+- [Developer tools](azure-products.md#developer-tools)
+- [Infrastructure management and automation](azure-products.md#infrastructure-management-and-automation)
+- [Internet of Things](azure-products.md#internet-of-things)
+- [Networking](azure-products.md#networking)
+- [Security](azure-products.md#security)
+- [Storage](azure-products.md#storage)
+- [Web](azure-products.md#web)
+
+All of the products are compiled in [Azure products](azure-products.md).
 
 ## Learn about how to use Azure
 With your Azure account created and a list of products you want to use in mind, it's time to learn about how to use them.

@@ -1,6 +1,20 @@
 # Azure products
 Azure has a broad range of products that cover many different scenarios. This curated list identifies a subset of the Azure products that are particularly relevant to startups.
 
+- [AI and ML](#ai-and-ml)
+- [Blockchain](#blockchain)
+- [Compute](#compute)
+- [Containers](#containers)
+- [Databases](#databases)
+- [Data Engineering](#data-engineering)
+- [Developer tools](#developer-tools)
+- [Infrastructure management and automation](#infrastructure-management-and-automation)
+- [Internet of Things](#internet-of-things)
+- [Networking](#networking)
+- [Security](#security)
+- [Storage](#storage)
+- [Web](#web)
+
 ## AI and ML
 | Product                                                                                         | What you can do with it                                                                                                            |
 | :--- | :---- |

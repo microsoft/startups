@@ -1,6 +1,8 @@
 # Free Azure products
 These products are included with your free Azure subscription.
 
+
+
 ### Compute
 | Product                                                              | What you can do with it                                                                                                                |
 | :---   | :--- |
