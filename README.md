@@ -26,7 +26,7 @@ With an Azure subscription, you get access to all of the free products and the p
 - [Infrastructure management and automation](products/azure-products.md#infrastructure-management-and-automation)
 - [Internet of Things](products/azure-products.md#internet-of-things)
 - [Networking](products/azure-products.md#networking)
-- [Security](azure-products.md#security)
+- [Security](products/azure-products.md#security)
 - [Storage](products/azure-products.md#storage)
 - [Web](products/azure-products.md#web)
 
