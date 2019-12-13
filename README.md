@@ -11,26 +11,26 @@ Azure has a broad range of products that cover many different scenarios, capabil
 
 With a free account, you get access to two tiers of products, *free* and *free for 12 months*:
 
-- [Products that are always free](azure-products-free.md)
-- [Products that are free for 12 months](azure-products-free-trial.md)
+- [Products that are always free](products/azure-products-free.md)
+- [Products that are free for 12 months](products/azure-products-free-trial.md)
 
 With an Azure subscription, you get access to all of the free products and the products that are pay-as-you-go. To help you make sense of it all, we've curated a list of Azure products that we think are particularly relevant to startups:
 
-- [AI and ML](azure-products.md#ai-and-ml)
-- [Blockchain](azure-products.md#blockchain)
-- [Compute](azure-products.md#compute)
-- [Containers](azure-products.md#containers)
-- [Databases](azure-products.md#databases)
-- [Data Engineering](azure-products.md#data-engineering)
-- [Developer tools](azure-products.md#developer-tools)
-- [Infrastructure management and automation](azure-products.md#infrastructure-management-and-automation)
-- [Internet of Things](azure-products.md#internet-of-things)
-- [Networking](azure-products.md#networking)
-- [Security](azure-products.md#security)
-- [Storage](azure-products.md#storage)
-- [Web](azure-products.md#web)
+- [AI and ML](products/azure-products.md#ai-and-ml)
+- [Blockchain](products/azure-products.md#blockchain)
+- [Compute](products/azure-products.md#compute)
+- [Containers](products/azure-products.md#containers)
+- [Databases](products/azure-products.md#databases)
+- [Data Engineering](products/azure-products.md#data-engineering)
+- [Developer tools](products/azure-products.md#developer-tools)
+- [Infrastructure management and automation](products/azure-products.md#infrastructure-management-and-automation)
+- [Internet of Things](products/azure-products.md#internet-of-things)
+- [Networking](products/azure-products.md#networking)
+- [Security](products/azure-products.md#security)
+- [Storage](products/azure-products.md#storage)
+- [Web](products/azure-products.md#web)
 
-All of the products are compiled in the full curated list of [Azure products](azure-products.md).
+All of the products are compiled in the full curated list of [Azure products](products/azure-products.md).
 
 ## Learn about how to use Azure
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path) is a great resource for learning about using Azure products.
