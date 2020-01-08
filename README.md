@@ -1,8 +1,8 @@
 # Startups guide to Azure
-This repo provides startups with Azure guidance, information, and resources. Whether you're creating something brand new, you're considering a move from another cloud provider, you want to leverage Azure services, you're refactoring your architecture, or you're throwing everything away and starting over, this guide will help you.
+This repo aims to provide you, a startup founder/technical decision maker/developer/curious learner with Azure guidance, information, and resources. Whether you're creating something brand new, you're considering a move from another cloud provider, you want to leverage Azure services, you're refactoring your architecture, or you're throwing everything away and starting over, this guide will help you.
 
 ## Get started with Azure
-You can quickly get started with Azure by [creating a free account](https://azure.microsoft.com/en-us/). The free account includes access to 25 different products that are always free. You also get free access to popular Azure products for 12 months. And you get a $200 credit to spend in the first month. For the latest details on the free Azure account, consult the [Azure Free Account FAQ](https://azure.microsoft.com/en-us/free/free-account-faq/).
+You can quickly get started with Azure by [creating a free account](https://azure.microsoft.com/en-us/). The free account includes access to 25 different products that are always free. You also get free access to popular Azure products for 12 months. Additionally, you get a $200 credit to spend in the first month. For the latest details on the free Azure account, consult the [Azure Free Account FAQ](https://azure.microsoft.com/en-us/free/free-account-faq/).
 
 If you already have an Azure subscription, you don't need to create a new account.
 
@@ -14,7 +14,7 @@ With a free account, you get access to two tiers of products, *free* and *free f
 - [Products that are always free](products/azure-products-free.md)
 - [Products that are free for 12 months](products/azure-products-free-trial.md)
 
-With an Azure subscription, you get access to all of the free products and the products that are pay-as-you-go. To help you make sense of it all, we've curated a list of Azure products that we think are particularly relevant to startups:
+With an Azure subscription, you get access to all of the free products and the products that are pay-as-you-go. To help you make sense of it all, we've curated a list of Azure products that we think are particularly relevant for you:
 
 - [AI and ML](products/azure-products.md#ai-and-ml)
 - [Blockchain](products/azure-products.md#blockchain)
@@ -33,7 +33,7 @@ With an Azure subscription, you get access to all of the free products and the p
 All of the products are compiled in the full curated list of [Azure products](products/azure-products.md).
 
 ## Learn about how to use Azure
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path) is a great resource for learning about using Azure products.
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path) is a great free resource for learning about using Azure products.
 
 - [Get started with Azure](https://docs.microsoft.com/en-us/users/RobertStandefer-8146/collections/wpmzto47zxj3o)
 
