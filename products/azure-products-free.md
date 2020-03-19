@@ -8,6 +8,7 @@ These products are included with your free Azure subscription.
 | :---   | :--- |
 | [App Service](https://docs.microsoft.com/en-us/azure/app-service/)                                                      | Build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure |
 | [Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) | Run event-triggered code without managing infrastructure                                                                               |
+| [Batch](https://docs.microsoft.com/en-us/azure/app-service/)                                                      | Cloud-scale job scheduling and compute management |
 
 ### Web
 | Product                                                                                         | What you can do with it |
