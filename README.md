@@ -7,7 +7,7 @@
 <p align="center">
  <a href="#get-started-with-azure-🏁">🏁 Get started</a> |
  <a href="#what-you-can-do-with-the-azure-free-services-🆓">🆓 Free services</a> |
- <a href="#azure-by-technology-areas">👩‍💻 By Technology Area</a> 
+ <a href="#azure-by-technology-areas">👩‍💻 By Technology Area</a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="" />&nbsp;<img src="./media/works-azure-badge.svg" alt="" />
@@ -54,11 +54,11 @@ You can build a a lot of different services only using the free tier! Let's see 
 <br/>[👩‍🎓 Learn how to deploy your website on Azure Web Apps](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/)
 <br/>[👩‍🎓 Learn how to use Azure SQL Database](https://docs.microsoft.com/learn/modules/provision-azure-sql-db/)
 
-- ⚡ Want to build a real-time application? You can do this with [Azure SignalR Service](https://azure.microsoft.com/services/signalr-service/), [Azure Functions](https://azure.microsoft.com/services/functions/) and [CosmosDB](https://azure.microsoft.com/services/cosmos-db/) free tiers. 
+- ⚡ Want to build a real-time application? You can do this with [Azure SignalR Service](https://azure.microsoft.com/services/signalr-service/), [Azure Functions](https://azure.microsoft.com/services/functions/) and [CosmosDB](https://azure.microsoft.com/services/cosmos-db/) free tiers.
 <br/>[👩‍🎓 Learn how to work with Azure CosmosDB Database](https://docs.microsoft.com/learn/paths/work-with-nosql-data-in-azure-cosmos-db/)
 <br/>[👩‍🎓 Learn how to develop APIs with Azure Functions](https://docs.microsoft.com/learn/modules/build-api-azure-functions/)
 <br/>[👩‍🎓 Learn how to enable automatic udpates with SignalR](https://docs.microsoft.com/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/)
-<br/>[📐Reference architecture: Real-Time dashboard](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/real-time-web-dashboard) 
+<br/>[📐Reference architecture: Real-Time dashboard](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/real-time-web-dashboard)
 <br/>[📐Reference architecture: Cross-platform Chat](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/cross-platform-chat)
 
 
@@ -73,8 +73,8 @@ Free services are not limited to development or testing (see our [Free Services 
 
 With GitHub and Azure DevOps, you can simply organize, build & test the work of your team.
 
-> **Our free tier includes**: 
-> 
+> **Our free tier includes**:
+>
 > - 5 first users of Azure DevOps,
 > - 1800 Build & release pipelines minutes per month
 > - Free private GitHub repositories, with unlimited collaborators and 2000 GitHub actions minutes
@@ -86,7 +86,7 @@ With GitHub and Azure DevOps, you can simply organize, build & test the work of 
  - [Get a development Box on Azure with Visual Studio Online](https://online.visualstudio.com/?wt.mc_id=microsoftstartups-github-chmaneu)
 
 ### Serverless Computing
- 
+
 - [Create serverless logic with Azure Functions](https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/?wt.mc_id=microsoftstartups-github-chmaneu)
 - [Build a CRUD API with Severless](https://scotch.io/tutorials/crud-with-azure-serverless-functions)
 - [Create a long-running serverless workflow with Durable Functions](https://docs.microsoft.com/learn/modules/create-long-running-serverless-workflow-with-durable-functions/?wt.mc_id=microsoftstartups-github-chmaneu)
@@ -96,7 +96,7 @@ With GitHub and Azure DevOps, you can simply organize, build & test the work of 
 - [Azure Logic Apps](https://azure.microsoft.com/services/logic-apps?WT.mc_id=microsoftstartups-github-bramin)
 - [Use Azure Functions to build a Serverless API backend for Slack](https://dev.to/azure/funcy-a-serverless-slack-app-using-azure-functions-4m84)
 - [Use Azure Functions and Azure Event Hubs for real-time data processing](https://dev.to/azure/tutorial-use-azure-functions-to-process-real-time-data-from-azure-event-hubs-and-persist-to-azure-cosmos-db-2co8)
- 
+
 ### DevOps
 
 - TBD
@@ -105,24 +105,24 @@ With GitHub and Azure DevOps, you can simply organize, build & test the work of 
 
  - [Host a static website on Azure]()
  - [Host your containerized web app on Azure]()
- 
+
 ### Storage
- 
+
  - [Implement and manage Azure Storages](resources/learning-resources.md#storage)
- 
- 
+
+
 ### Databases
- 
+
  - [Choosing Open Source databases on Azure - MySQL, PostgreSQL, MariaDB & Redis](resources/learning-resources.md#databases)
  - [Build a globally distributed database with Azure CosmoDB](resources/learning-resources.md#databases)
- 
+
 ### Internet of Things (IoT)
- 
+
 - [Send and Read Telemtry Data to Azure IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-cli?wt.mc_id=microsoftstartups-github-chmaneu)
 - [Control IoT Devices using IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/quickstart-control-device-node?wt.mc_id=microsoftstartups-github-chmaneu)
 
 ### Big Data
- 
+
 - [Getting started with big data ingestion and streaming on Azure](https://docs.microsoft.com/azure/azure-databricks/databricks-stream-from-eventhubs?WT.mc_id=microsoftstartups-github-alehall)
 - [Running Apache Spark jobs on Azure Kubernetes Service](https://docs.microsoft.com/azure/aks/spark-job?WT.mc_id=microsoftstartups-github-alehall)
 - [How to choose Azure services to work with messages in your application](aka.ms/azfr/626/yt)
@@ -138,7 +138,7 @@ With GitHub and Azure DevOps, you can simply organize, build & test the work of 
  - [Build Custom Vision AI in minutes](resources/learning-resources.md#ai-and-ml)
  - [No-code Machine Learning with simple Drag-n-Drop designer for beginners](resources/learning-resources.md#ai-and-ml)
  - [Introduction to Machine Learning](resources/learning-resources.md#ai-and-ml)
- 
+
 
 ### Mapping AWS to Azure
 Here is a comparison of the services on AWS and Azure. https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services?wt.mc_id=microsoftstartups-github-chmaneu
@@ -149,15 +149,15 @@ Here is a comparison of the services on AWS and Azure. https://docs.microsoft.co
 
 ### License
 
-This content is shared under MIT license. 
+This content is shared under MIT license.
 
 ### Contributing
 
-We welcome your contributions on this page! There is several ways to contribute: 
+We welcome your contributions on this page! There is several ways to contribute:
 
  - **You need some info about a product or a use case?** [Create an issue](https://github.com/microsoft/startups/issues/new)
  - **You have a content to submit?** Please create a pull request and we'll review it.
- - **You have an experience to share?** You can start by [creating an issue](https://github.com/microsoft/startups/issues/new) and we can see how best transcribe your experience and learnings here.
+ - **You have an experience to share?** You can start by [creating an issue](https://github.com/microsoft/startups/issues/new) and we can see how best transcribe your experience and knowledge here.
 
 ### Contributors ✨
 
@@ -174,6 +174,7 @@ Thanks goes to these wonderful people:
   </tr>
   <tr>
 <td align="center"><a href="https://github.com/abhirockzz"><img src="https://avatars1.githubusercontent.com/u/6301594?s=460&u=ba2a00c14fa44cab34d7fd4020652abf9a8c03fa&v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Gupta</b>&nbsp; <img src="https://avatars3.githubusercontent.com/u/1844662?s=200&v=4" width="15px;" alt="Microsoft Employee"></sub></a><br /><a href="https://github.com/microsoft/startups/commits?author=abhirockzz" title="Documentation">📖</a></td>
+<td align="center"><a href="https://github.com/robstand"><img src="https://avatars0.githubusercontent.com/u/3769051?s=460&u=53c3dda98f19447e18ad48db62c61795757f3bc2&v=4" width="100px;" alt=""/><br /><sub><b>Robert Standefer</b>&nbsp; <img src="https://avatars3.githubusercontent.com/u/1844662?s=200&v=4" width="15px;" alt="Microsoft Employee"></sub></a><br /><a href="https://github.com/microsoft/startups/commits?author=robstand" title="Documentation">📖</a><a href="https://github.com/microsoft/startups/pulls?q=is%3Apr+reviewed-by%3Arobstand" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
