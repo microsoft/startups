@@ -22,19 +22,19 @@ Azure provides documentation, tutorials, sample codes and learning resoures thro
 
 Azure Blobs   
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/storage/blobs/?toc=/azure/storage/blobs/toc.json)   
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/storage/blobs/?toc=/azure/storage/blobs/toc.json&WT.mc_id=startups-github-cxa)   
 - 👩‍💻 MS Learning Paths
-    - [Store application data with Azure Blob storage](https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/)
-    - [Organize Azure storage blobs with properties and metadata](https://docs.microsoft.com/en-us/learn/modules/organize-blobs-properties-metadata/)    
+    - [Store application data with Azure Blob storage](https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/?WT.mc_id=startups-github-cxa)
+    - [Organize Azure storage blobs with properties and metadata](https://docs.microsoft.com/learn/modules/organize-blobs-properties-metadata/?WT.mc_id=startups-github-cxa)    
 - 🎥 Videos
     - [Azure Blob Storage for Mobile | The Xamarin Show](https://www.youtube.com/watch?v=Wmc7C4RRjBI) 
 - 📄 Blogs
 
 Data Lake Storage Gen2
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction?toc=/azure/storage/blobs/toc.json)
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/storage/blobs/data-lake-storage-introduction?toc=/azure/storage/blobs/toc.json&WT.mc_id=startups-github-cxa)
 - 👩‍💻 MS Learning Paths
-    - [Large-Scale Data Processing with Azure Data Lake Storage Gen2](https://docs.microsoft.com/en-us/learn/paths/data-processing-with-azure-adls/)
+    - [Large-Scale Data Processing with Azure Data Lake Storage Gen2](https://docs.microsoft.com/learn/paths/data-processing-with-azure-adls/?WT.mc_id=startups-github-cxa)
 - 🎥 Videos
     - [Azure Data Lake Storage Gen2 overview](https://www.youtube.com/watch?v=McJj_N-pjgI) 
     - [What's new with Azure Data Lake Storage](https://www.youtube.com/watch?v=oye-rbVC_Kk)     
@@ -42,18 +42,18 @@ Data Lake Storage Gen2
 
 Files
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/storage/files/?toc=/azure/storage/files/toc.json) 
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/storage/files/?toc=/azure/storage/files/toc.json&WT.mc_id=startups-github-cxa) 
 - 👩‍💻 MS Learning Paths
-    - [Store and share files in your application with Azure Files](https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/)
+    - [Store and share files in your application with Azure Files](https://docs.microsoft.com/learn/modules/store-and-share-with-azure-files/?WT.mc_id=startups-github-cxa)
 - 🎥 Videos
     - [Azure file shares and Azure File Sync overview](https://www.youtube.com/watch?v=nfWLO7F52-s) 
 - 📄 Blogs
 
 Queues
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/storage/queues/?toc=/azure/storage/queues/toc.json) 
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/storage/queues/?toc=/azure/storage/queues/toc.json&WT.mc_id=startups-github-cxa) 
 - 👩‍💻 MS Learning Paths
-    - [Communicate between applications with Azure Queue storage](https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/) 
+    - [Communicate between applications with Azure Queue storage](https://docs.microsoft.com/learn/modules/communicate-between-apps-with-azure-queue-storage/?WT.mc_id=startups-github-cxa) 
 - 🎥 Videos
     - [How to choose Azure services for working with messages in your application](https://www.youtube.com/watch?v=IQ_j41zBy0k) 
     - [Azure Storage Queue Message Management](https://www.youtube.com/watch?v=ksryHC9sIOM)    
@@ -61,7 +61,7 @@ Queues
 
 Tables               
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/storage/tables/?toc=/azure/storage/tables/toc.json) 
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/storage/tables/?toc=/azure/storage/tables/toc.json&WT.mc_id=startups-github-cxa) 
 - 👩‍💻 MS Learning Paths
 - 🎥 Videos
 - 📄 Blogs
@@ -71,9 +71,9 @@ Tables
 
 MySQL              
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/mysql/)   
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/mysql/?WT.mc_id=startups-github-cxa)   
 - 👩‍💻 MS Learning Paths
-    - [Migrate on-premises MySQL databases to Azure Database for MySQL](https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mysql-databases/)
+    - [Migrate on-premises MySQL databases to Azure Database for MySQL](https://docs.microsoft.com/learn/modules/migrate-on-premises-mysql-databases/?WT.mc_id=startups-github-cxa)
 - 🎥 Videos
     - [Introduction to Azure Database for MySQL](https://www.youtube.com/watch?v=F66qd93h-1I)
     - [Building a scalable and secure application with Azure Database for MySQL](https://www.youtube.com/watch?v=oARF-91LEqA)    
@@ -83,10 +83,10 @@ MySQL
         
 PostgreSQL                
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/postgresql/)
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/postgresql/?WT.mc_id=startups-github-cxa)
 - 👩‍💻 MS Learning Paths
-    - [Create an Azure Database for PostgreSQL server](https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postgresql-server/) 
-    - [Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL](https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/) 
+    - [Create an Azure Database for PostgreSQL server](https://docs.microsoft.com/learn/modules/create-azure-db-for-postgresql-server/?WT.mc_id=startups-github-cxa) 
+    - [Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL](https://docs.microsoft.com/learn/modules/migrate-on-premises-postgresql-databases/?WT.mc_id=startups-github-cxa) 
 - 🎥 Videos
     - [Introducing Azure DB for PostgreSQL](https://www.youtube.com/watch?v=kW-bvDJjb3E) 
     - [Introducing Azure Database for PostgreSQL and Azure Database for MySQL](https://www.youtube.com/watch?v=ElKfEurMi9E) 
@@ -95,7 +95,7 @@ PostgreSQL
     
 MariaDB                
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/mariadb/) 
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/mariadb/?WT.mc_id=startups-github-cxa) 
 - 👩‍💻 MS Learning Paths
 - 🎥 Videos
     - [Azure Database for MariaDB](https://www.youtube.com/watch?v=FVG_l-ucS_U) 
@@ -105,10 +105,10 @@ MariaDB
 
 Redis                
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/)
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/azure-cache-for-redis/?WT.mc_id=startups-github-cxa)
 - 👩‍💻 MS Learning Paths
-    - [Optimize your web applications by caching read-only data with Redis](https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/) 
-    - [Work with mutable and partial data in Azure Cache for Redis](https://docs.microsoft.com/en-us/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/)     
+    - [Optimize your web applications by caching read-only data with Redis](https://docs.microsoft.com/learn/modules/optimize-your-web-apps-with-redis/?WT.mc_id=startups-github-cxa) 
+    - [Work with mutable and partial data in Azure Cache for Redis](https://docs.microsoft.com/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/?WT.mc_id=startups-github-cxa)     
 - 🎥 Videos
     - [What's new in Azure Redis Cache](https://www.youtube.com/watch?v=sfeKkXE04hI) 
 - 📄 Blogs
@@ -117,9 +117,9 @@ Redis
 
 CosmosDB
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/cosmos-db/) 
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/cosmos-db/?WT.mc_id=startups-github-cxa) 
 - 👩‍💻 MS Learning Paths
-    - [Work with NoSQL data in Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/) 
+    - [Work with NoSQL data in Azure Cosmos DB](https://docs.microsoft.com/learn/paths/work-with-nosql-data-in-azure-cosmos-db/?WT.mc_id=startups-github-cxa) 
 - 🎥 Videos
     - [Azure Cosmos DB](https://www.youtube.com/watch?v=FmOA5oufedQ) 
     - [Azure Cosmos DB Free Tier and Autopilot](https://www.youtube.com/watch?v=FmOA5oufedQ) 
@@ -133,10 +133,10 @@ CosmosDB
 
 Azure Bot Services              
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0)   
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/bot-service/?view=azure-bot-service-4.0&WT.mc_id=startups-github-cxa)   
 - 👩‍💻 MS Learning Paths
-    - [Create Intelligent Bots with the Azure Bot Service](https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/) 
-    - [Create interactive conversational bots for Microsoft Teams](https://docs.microsoft.com/en-us/learn/modules/msteams-conversation-bots/)     
+    - [Create Intelligent Bots with the Azure Bot Service](https://docs.microsoft.com/learn/paths/create-bots-with-the-azure-bot-service/?WT.mc_id=startups-github-cxa) 
+    - [Create interactive conversational bots for Microsoft Teams](https://docs.microsoft.com/learn/modules/msteams-conversation-bots/?WT.mc_id=startups-github-cxa)     
 - 🎥 Videos
     - [Build a Bot in Minutes with QnA Maker](https://www.youtube.com/watch?v=MLlM-daiEO0) 
     - [Let’s build a knowledgeable chatbot with Microsoft Bot Framework Azure Bot Services](https://www.youtube.com/watch?v=x0hxnnD8Nyo)
@@ -146,25 +146,25 @@ Azure Bot Services
 
 Cognitive Services
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/cognitive-services/)
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/cognitive-services/?WT.mc_id=startups-github-cxa)
 - 👩‍💻 MS Learning Paths
-    - [Quick hands-on exercises](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path&term=cognitive) 
+    - [Quick hands-on exercises](https://docs.microsoft.com/learn/browse/?products=azure&resource_type=learning%20path&term=cognitive&WT.mc_id=startups-github-cxa) 
 - 🎥 Videos
-    - [Process and classify images with the Azure Cognitive Vision Services](https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/) 
-    - [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/) 
-    - [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/)         
+    - [Process and classify images with the Azure Cognitive Vision Services](https://docs.microsoft.com/learn/paths/classify-images-with-vision-services/?WT.mc_id=startups-github-cxa) 
+    - [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/learn/paths/translate-speech-with-speech-services/?WT.mc_id=startups-github-cxa) 
+    - [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/learn/paths/evaluate-text-with-language-services/?WT.mc_id=startups-github-cxa)         
 - 📄 Blogs
     - [Use Azure Cognitive Services to build a translator app hosted on Azure App Service](https://dev.to/azure/tutorial-use-azure-cognitive-services-to-build-a-translator-app-hosted-on-azure-app-service-4pp1)
 
 Custom Vision
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/) 
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/?WT.mc_id=startups-github-cxa) 
 - 👩‍💻 MS Learning Paths
-    - [Classify images with the Microsoft Custom Vision Service](https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/) 
-    - [Classify images with the Custom Vision service](https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/) 
-    - [Detect objects in images with the Custom Vision service](https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/)     
+    - [Classify images with the Microsoft Custom Vision Service](https://docs.microsoft.com/learn/modules/classify-images-with-custom-vision-service/?WT.mc_id=startups-github-cxa) 
+    - [Classify images with the Custom Vision service](https://docs.microsoft.com/learn/modules/classify-images-custom-vision/?WT.mc_id=startups-github-cxa) 
+    - [Detect objects in images with the Custom Vision service](https://docs.microsoft.com/learn/modules/detect-objects-images-custom-vision/?WT.mc_id=startups-github-cxa)     
 - 🎥 Videos
-    - [How to Train and Identify Unique Designs or Image Content](https://channel9.msdn.com/Shows/AI-Show/Azure-Custom-Vision-How-to-Train-and-Identify-Unique-Designs-or-Image-Content) 
+    - [How to Train and Identify Unique Designs or Image Content](https://channel9.msdn.com/Shows/AI-Show/Azure-Custom-Vision-How-to-Train-and-Identify-Unique-Designs-or-Image-Content?WT.mc_id=startups-github-cxa) 
     - [How to Train and Identify Unique Designs or Image Content](https://www.youtube.com/watch?v=ARkvs72uaxg)  
     - [Custom Vision 2 - Object Detection Made Easy - The Xamarin Show](https://www.youtube.com/watch?v=wtTYSyBUpFc) 
     - [Custom Vison AI on Azure IoT Edge](https://www.youtube.com/watch?v=_K5fqGLO8us)             
@@ -173,11 +173,11 @@ Custom Vision
 
 Azure Machine Learning Designer                
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score) 
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/machine-learning/tutorial-designer-automobile-price-train-score?WT.mc_id=startups-github-cxa) 
 - 👩‍💻 MS Learning Paths
-    - [Create a Regression Model with Azure Machine Learning designer](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/)
-    - [Create a classification model with Azure Machine Learning designer](https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/)
-    - [Create a Clustering Model with Azure Machine Learning designer](https://docs.microsoft.com/en-us/learn/modules/create-clustering-model-azure-machine-learning-designer/)    
+    - [Create a Regression Model with Azure Machine Learning designer](https://docs.microsoft.com/learn/modules/create-regression-model-azure-machine-learning-designer/?WT.mc_id=startups-github-cxa)
+    - [Create a classification model with Azure Machine Learning designer](https://docs.microsoft.com/learn/modules/create-classification-model-azure-machine-learning-designer/?WT.mc_id=startups-github-cxa)
+    - [Create a Clustering Model with Azure Machine Learning designer](https://docs.microsoft.com/learn/modules/create-clustering-model-azure-machine-learning-designer/?WT.mc_id=startups-github-cxa)    
 - 🎥 Videos
     - [Designer Drag and Drop ML](https://www.youtube.com/watch?v=La5fH9wYOPM) 
     - [Democratize AI with Azure Machine Learning designer](https://www.youtube.com/watch?v=G4ylC1C55eQ) 
@@ -187,13 +187,13 @@ Azure Machine Learning Designer
 
 Azure Machine Learning
 ***        
-- 💡 [Overview & Tutorials](https://docs.microsoft.com/en-us/azure/machine-learning/) 
+- 💡 [Overview & Tutorials](https://docs.microsoft.com/azure/machine-learning/?WT.mc_id=startups-github-cxa) 
 - 👩‍💻 MS Learning Paths
-    - [Introduction to Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/)
-    - [Create no-code predictive models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/)    
-    - [Working with Data in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/)
-    - [Working with Compute Contexts in Azure Machine Learning](https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/)   
-    - [Build AI solutions with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/) 
+    - [Introduction to Azure Machine Learning](https://docs.microsoft.com/learn/modules/intro-to-azure-machine-learning-service/?WT.mc_id=startups-github-cxa)
+    - [Create no-code predictive models with Azure Machine Learning](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/?WT.mc_id=startups-github-cxa)    
+    - [Working with Data in Azure Machine Learning](https://docs.microsoft.com/learn/modules/work-with-data-in-aml/?WT.mc_id=startups-github-cxa)
+    - [Working with Compute Contexts in Azure Machine Learning](https://docs.microsoft.com/learn/modules/use-compute-contexts-in-aml/?WT.mc_id=startups-github-cxa)   
+    - [Build AI solutions with Azure Machine Learning](https://docs.microsoft.com/learn/paths/build-ai-solutions-with-azure-ml-service/?WT.mc_id=startups-github-cxa) 
 - 🎥 Videos
     - [What’s new with Azure Machine Learning](https://www.youtube.com/watch?v=YlWCeY_CWEg) 
 - 📄 Blogs
