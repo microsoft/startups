@@ -38,7 +38,10 @@ You can quickly get started with Azure by [creating a free account](https://azur
 
 If you already have an Azure subscription, you don't need to create a new account.
 
+Are you a startup? You may be eligible to [Microsoft for Startups](https://startups.microsoft.com/learn/?wt.mc_id=startups-github-cxa) program.
+
 <hr/>
+
 
 ## What you can do with the Azure Free services? 🆓
 Azure has a broad range of products that cover many different scenarios, capabilities, and needs. With a free account, you get access to two tiers of products, *free* and *free for 12 months*:
