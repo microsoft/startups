@@ -1,7 +1,7 @@
 # ![Startups guide to Azure](./media/banner.png)
 
 <p align="center">
-    <span style="font-weight: bold;">A list of resources & training to get your startup up and running on <a href="https://azure.microsoft.com">Microsoft Azure.</a><span>
+    <span style="font-weight: bold;">A list of resources & training to get your startup up and running on <a href="https://azure.microsoft.com?WT.mc_id=startups-github-cxa">Microsoft Azure.</a><span>
 </p>
 
 <p align="center">
@@ -31,10 +31,10 @@ This repo provides startups with Azure guidance, information, and resources. Whe
     - [Mapping AWS to Azure ☁️➡️☁️](#mapping-aws-to-azure)
 - [About this repository](#about-this-repository)
 
-> In this document, we are providing information about our free tiers and/or offerings. Please note that this document may not reflect an accurate description of our free offerings, and may from time to time describe a free offering which is not free anymore. Information listed here has no legal or contractual value. Please consult our [Azure Free Tier Page](https://azure.microsoft.com/en-us/free/) for accurate and up-to-date info.
+> In this document, we are providing information about our free tiers and/or offerings. Please note that this document may not reflect an accurate description of our free offerings, and may from time to time describe a free offering which is not free anymore. Information listed here has no legal or contractual value. Please consult our [Azure Free Tier Page](https://azure.microsoft.com/free/?WT.mc_id=startups-github-cxa) for accurate and up-to-date info.
 
 ## Get started with Azure 🏁
-You can quickly get started with Azure by [creating a free account](https://azure.microsoft.com/en-us/). The free account includes access to 25 different products that are always free. You also get free access to popular Azure products for 12 months. And you get a $200 credit to spend in the first month. For the latest details on the free Azure account, consult the [Azure Free Account FAQ](https://azure.microsoft.com/en-us/free/free-account-faq/).
+You can quickly get started with Azure by [creating a free account](https://azure.microsoft.com/?WT.mc_id=startups-github-cxa). The free account includes access to 25 different products that are always free. You also get free access to popular Azure products for 12 months. And you get a $200 credit to spend in the first month. For the latest details on the free Azure account, consult the [Azure Free Account FAQ](https://azure.microsoft.com/free/free-account-faq/?WT.mc_id=startups-github-cxa).
 
 If you already have an Azure subscription, you don't need to create a new account.
 
@@ -53,20 +53,20 @@ With an Azure subscription, you get access to all of the free products and the p
 
 You can build a a lot of different services only using the free tier! Let's see some examples:
 
-- 🌐 Want to build a simple website with an SQL database? Deploy it with [Azure Web Apps](https://azure.microsoft.com/services/app-service/web/) and [Azure SQL](https://azure.microsoft.com/services/sql-database/).
-<br/>[👩‍🎓 Learn how to deploy your website on Azure Web Apps](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/)
-<br/>[👩‍🎓 Learn how to use Azure SQL Database](https://docs.microsoft.com/learn/modules/provision-azure-sql-db/)
+- 🌐 Want to build a simple website with an SQL database? Deploy it with [Azure Web Apps](https://azure.microsoft.com/services/app-service/web/?WT.mc_id=startups-github-cxa) and [Azure SQL](https://azure.microsoft.com/services/sql-database/?WT.mc_id=startups-github-cxa).
+<br/>[👩‍🎓 Learn how to deploy your website on Azure Web Apps](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/?WT.mc_id=startups-github-cxa)
+<br/>[👩‍🎓 Learn how to use Azure SQL Database](https://docs.microsoft.com/learn/modules/provision-azure-sql-db/?WT.mc_id=startups-github-cxa)
 
-- ⚡ Want to build a real-time application? You can do this with [Azure SignalR Service](https://azure.microsoft.com/services/signalr-service/), [Azure Functions](https://azure.microsoft.com/services/functions/) and [CosmosDB](https://azure.microsoft.com/services/cosmos-db/) free tiers.
-<br/>[👩‍🎓 Learn how to work with Azure CosmosDB Database](https://docs.microsoft.com/learn/paths/work-with-nosql-data-in-azure-cosmos-db/)
-<br/>[👩‍🎓 Learn how to develop APIs with Azure Functions](https://docs.microsoft.com/learn/modules/build-api-azure-functions/)
-<br/>[👩‍🎓 Learn how to enable automatic udpates with SignalR](https://docs.microsoft.com/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/)
-<br/>[📐Reference architecture: Real-Time dashboard](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/real-time-web-dashboard)
-<br/>[📐Reference architecture: Cross-platform Chat](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/cross-platform-chat)
+- ⚡ Want to build a real-time application? You can do this with [Azure SignalR Service](https://azure.microsoft.com/services/signalr-service/?WT.mc_id=startups-github-cxa), [Azure Functions](https://azure.microsoft.com/services/functions/?WT.mc_id=startups-github-cxa) and [CosmosDB](https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=startups-github-cxa) free tiers.
+<br/>[👩‍🎓 Learn how to work with Azure CosmosDB Database](https://docs.microsoft.com/learn/paths/work-with-nosql-data-in-azure-cosmos-db/?WT.mc_id=startups-github-cxa)
+<br/>[👩‍🎓 Learn how to develop APIs with Azure Functions](https://docs.microsoft.com/learn/modules/build-api-azure-functions/?WT.mc_id=startups-github-cxa)
+<br/>[👩‍🎓 Learn how to enable automatic udpates with SignalR](https://docs.microsoft.com/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/?WT.mc_id=startups-github-cxa)
+<br/>[📐Reference architecture: Real-Time dashboard](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/real-time-web-dashboard?WT.mc_id=startups-github-cxa)
+<br/>[📐Reference architecture: Cross-platform Chat](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/cross-platform-chat?WT.mc_id=startups-github-cxa)
 
 
 ### You have your first customer? 🙌
-Free services are not limited to development or testing (see our [Free Services FAQ](https://azure.microsoft.com/free/free-account-faq/)). So yes, you may go into production with our free services. Be sure to check if the limits & availability of used services are sufficient for your use case before. Also, please note that you'll not be eligible to refunds if there is any SLA breach. Check out our [SLA documentation](https://azure.microsoft.com/free/free-account-faq/) for more information.
+Free services are not limited to development or testing (see our [Free Services FAQ](https://azure.microsoft.com/free/free-account-faq/?WT.mc_id=startups-github-cxa)). So yes, you may go into production with our free services. Be sure to check if the limits & availability of used services are sufficient for your use case before. Also, please note that you'll not be eligible to refunds if there is any SLA breach. Check out our [SLA documentation](https://azure.microsoft.com/free/free-account-faq/?WT.mc_id=startups-github-cxa) for more information.
 
 <hr/>
 
@@ -82,7 +82,7 @@ With GitHub and Azure DevOps, you can simply organize, build & test the work of 
 > - 1800 Build & release pipelines minutes per month
 > - Free private GitHub repositories, with unlimited collaborators and 2000 GitHub actions minutes
 
-[Get started for free](https://docs.microsoft.com/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops&wt.mc_id=microsoftstartups-github-chmaneu) | [Learn how to build your apps with Azure DevOps](https://docs.microsoft.com/learn/paths/build-applications-with-azure-devops/?wt.mc_id=microsoftstartups-github-chmaneu)
+[Get started for free](https://docs.microsoft.com/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops&WT.mc_id=startups-github-cxa) | [Learn how to build your apps with Azure DevOps](https://docs.microsoft.com/learn/paths/build-applications-with-azure-devops/?WT.mc_id=startups-github-cxa)
 
 ### Developer Experience
 
@@ -90,13 +90,13 @@ With GitHub and Azure DevOps, you can simply organize, build & test the work of 
 
 ### Serverless Computing
 
-- [Create serverless logic with Azure Functions](https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/?wt.mc_id=microsoftstartups-github-chmaneu)
+- [Create serverless logic with Azure Functions](https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/?WT.mc_id=startups-github-cxa)
 - [Build a CRUD API with Severless](https://scotch.io/tutorials/crud-with-azure-serverless-functions)
-- [Create a long-running serverless workflow with Durable Functions](https://docs.microsoft.com/learn/modules/create-long-running-serverless-workflow-with-durable-functions/?wt.mc_id=microsoftstartups-github-chmaneu)
+- [Create a long-running serverless workflow with Durable Functions](https://docs.microsoft.com/learn/modules/create-long-running-serverless-workflow-with-durable-functions/?WT.mc_id=startups-github-cxa)
 - [Stateful Serverless with Durable Functions](https://dev.to/azure/stateful-serverless-with-durable-functions-2jff)
 - [Is Serverless really as cheap as everyone claims?](https://dev.to/azure/is-serverless-really-as-cheap-as-everyone-claims-4i9n)
-- [Azure Functions](https://docs.microsoft.com/users/msignite2019/collections/erxh5dgozrqx?WT.mc_id=microsoftstartups-github-bramin)
-- [Azure Logic Apps](https://azure.microsoft.com/services/logic-apps?WT.mc_id=microsoftstartups-github-bramin)
+- [Azure Functions](https://docs.microsoft.com/users/msignite2019/collections/erxh5dgozrqx?WT.mc_id=startups-github-cxa)
+- [Azure Logic Apps](https://azure.microsoft.com/services/logic-apps?WT.mc_id=startups-github-cxa)
 - [Use Azure Functions to build a Serverless API backend for Slack](https://dev.to/azure/funcy-a-serverless-slack-app-using-azure-functions-4m84)
 - [Use Azure Functions and Azure Event Hubs for real-time data processing](https://dev.to/azure/tutorial-use-azure-functions-to-process-real-time-data-from-azure-event-hubs-and-persist-to-azure-cosmos-db-2co8)
 
@@ -121,15 +121,15 @@ With GitHub and Azure DevOps, you can simply organize, build & test the work of 
 
 ### Internet of Things (IoT)
 
-- [Send and Read Telemtry Data to Azure IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-cli?wt.mc_id=microsoftstartups-github-chmaneu)
-- [Control IoT Devices using IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/quickstart-control-device-node?wt.mc_id=microsoftstartups-github-chmaneu)
+- [Send and Read Telemtry Data to Azure IoT Hub](https://docs.microsoft.com/azure/iot-hub/quickstart-send-telemetry-cli?WT.mc_id=startups-github-cxa)
+- [Control IoT Devices using IoT Hub](https://docs.microsoft.com/azure/iot-hub/quickstart-control-device-node?WT.mc_id=startups-github-cxa)
 
 ### Big Data
 
-- [Getting started with big data ingestion and streaming on Azure](https://docs.microsoft.com/azure/azure-databricks/databricks-stream-from-eventhubs?WT.mc_id=microsoftstartups-github-alehall)
-- [Running Apache Spark jobs on Azure Kubernetes Service](https://docs.microsoft.com/azure/aks/spark-job?WT.mc_id=microsoftstartups-github-alehall)
+- [Getting started with big data ingestion and streaming on Azure](https://docs.microsoft.com/azure/azure-databricks/databricks-stream-from-eventhubs?WT.mc_id=startups-github-cxa)
+- [Running Apache Spark jobs on Azure Kubernetes Service](https://docs.microsoft.com/azure/aks/spark-job?WT.mc_id=startups-github-cxa)
 - [How to choose Azure services to work with messages in your application](aka.ms/azfr/626/yt)
-- [Apache Kafka developer guide for Azure Event Hubs](https://docs.microsoft.com/en-us/azure/event-hubs/apache-kafka-developer-guide)
+- [Apache Kafka developer guide for Azure Event Hubs](https://docs.microsoft.com/azure/event-hubs/apache-kafka-developer-guide?WT.mc_id=startups-github-cxa)
 - [What to consider for painless Apache Kafka integration](https://www.freecodecamp.org/news/what-to-consider-for-painless-apache-kafka-integration-df559e828876/)
 - [Build a Kafka Streams application for data processing and deploy it to Kubernetes](https://dev.to/azure/learn-how-to-develop-a-kafka-streams-application-for-data-processing-and-deploy-it-to-kubernetes-25li)
 - [Azure Event Hubs multi-protocol support](https://dev.to/azure/azure-event-hubs-multi-protocol-support-4idd)
@@ -144,7 +144,7 @@ With GitHub and Azure DevOps, you can simply organize, build & test the work of 
 
 
 ### Mapping AWS to Azure
-Here is a comparison of the services on AWS and Azure. https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services?wt.mc_id=microsoftstartups-github-chmaneu
+- [AWS to Azure services comparison] https://docs.microsoft.com/azure/architecture/aws-professional/services?WT.mc_id=startups-github-cxa
 
 <hr/>
 
