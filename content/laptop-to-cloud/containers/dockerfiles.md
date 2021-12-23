@@ -1,7 +1,6 @@
 ---
 title: "Dockerfile"
 date: 2021-12-22T02:41:41Z
-draft: true
 ---
 
 If a container is a way of packaging your application so that you can take it places, a Dockerfile is the list of things to pack and how to pack them into a container image.
