@@ -13,7 +13,6 @@ A very simple Dockerfile looks like this:
 FROM alpine
 
 RUN date > created.txt
-
 ENV GREETING=Hello
 
 CMD [ "/bin/sh", "-c", "echo", "Hello world!" ]
@@ -48,7 +47,16 @@ Finally this Dockerfile includes `CMD`, which is the command run by our containe
 
 ## Building our first container
 
-Let's build our container image.
+First create a new directory to work from.
+
+```bash
+mkdir greeting
+cd greeting
+```
+
+Then copy the Dockerfile from above into a file called `Dockerfile` in that directory.
+
+Now we can build our container image.
 
 ```bash
 $ docker build -t greeting
@@ -103,6 +111,8 @@ $ docker run -it --rm greeting cat created.txt
 
 Thu Dec 23 00:52:02 UTC 2021
 ```
+
+Play around with your Dockerfile and the `docker run` command to help you be comfortable with what you can do with Docker and container images. Experimenting is one of the best ways to master new tools.
 
 ## Getting Practical
 
