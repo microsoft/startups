@@ -6,7 +6,6 @@ draft: true
 
 If a container is a way of packaging your application so that you can take it places, a Dockerfile is the list of things to pack and how to pack them into a container image.
 
-
 ## Writing our first Dockerfile
 
 A very simple Dockerfile looks like this:
@@ -47,7 +46,6 @@ CMD [ "sh", "-c" "echo", "$GREETING world!" ]
 ```
 
 Finally this Dockerfile includes `CMD`, which is the command run by our container. In this case, it's a the traditional greeting of any tutorial or workshop.
-
 
 ## Building our first container
 
