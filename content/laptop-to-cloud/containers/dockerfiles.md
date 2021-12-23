@@ -27,7 +27,7 @@ Let's break down what each line does:
 FROM alpine
 ```
 
-While we can start from scratch, we rarely want to. We're starting with a base image of the Alpine Linux distro. Alpine Linux is great because it's light-weight, keeping our image size down. In some cases you might start with an official image for the language or framework you're using, like the Go, .NET, or Ruby.
+While we can start from scratch, we rarely want to. We're starting with a base image of the Alpine Linux distro. Alpine Linux is great because it's light-weight, keeping our image size down. In most cases you'll start with an official image for the language or framework you're using, like the Go, .NET, or Ruby.
 
 ```Dockerfile
 RUN date > created.txt
