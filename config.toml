@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://microsoft.github.io/startups'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Startup Tech'
 theme = "learn"
