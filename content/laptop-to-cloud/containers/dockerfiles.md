@@ -1,6 +1,7 @@
 ---
 title: "Dockerfile"
 date: 2021-12-22T02:41:41Z
+weight: 2
 ---
 
 If a container is a way of packaging your application so that you can take it places, a Dockerfile is the list of things to pack and how to pack them into a container image.
@@ -25,7 +26,7 @@ Let's break down what each line does:
 FROM alpine
 ```
 
-While we can start from scratch, we rarely want to. We're starting with a base image of the Alpine Linux distro. Alpine Linux is great because it's light-weight, keeping our image size down. In most cases you'll start with an official image for the language or framework you're using, like the Go, .NET, or Ruby.
+`FROM` tells Docker what we want to base our container image on. In our case we're starting with an Alpine Linux image from the public DockerHub container registry. Alpine Linux is great because it's light-weight, keeping our image size down. In most cases you'll start with an official image for the language or framework you're using, like the Go, .NET, or Ruby.
 
 ```Dockerfile
 RUN date > created.txt
@@ -37,7 +38,7 @@ One of the most important commands you'll see in a Dockerfile, the `RUN` command
 ENV GREETING=hello
 ```
 
-The `ENV` command allows us to specify an environment variable. This is used during the build process, but can also be overriden when we run the container (which will come in very handy later on).
+The `ENV` command allows us to specify an environment variable. This is used during the build process, but can also be overriden when we run the container (which you'll see an example of later).
 
 ```Dockerfile
 CMD [ "sh", "-c" "echo", "$GREETING world!" ]
