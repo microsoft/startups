@@ -1,6 +1,8 @@
 {{ $imagename := (.Get 0) }}
 {{ $options := .Get 1 }}
 {{ $original := .Page.Resources.GetMatch $imagename }}
+{{ if $original}}
 {{ with ($original.Resize $options) }}
 <img src="{{.RelPermalink}}">
 {{ end }}
+{{end}}
