@@ -1,9 +1,13 @@
 ---
-title: "Containers"
+title: "Put it in a container"
 date: 2021-12-16T16:39:22+11:00
+chapter: true
+weight: 2
 ---
 
-The first step to getting our app into the cloud is packaging it up. We want to take your application, and everything it needs to run – libraries, binaries etc. – and run it somewhere. 
+## Put it in a container
+
+The first step to getting our app into the cloud is packaging it up. We want to take your application, and everything it needs to run – libraries, binaries etc. – and run it somewhere.
 
 Being packaged in a container means your application runs in a consistent, isolated way wherever you put it. It also means you have a single unit which you can test and know works together.
 
