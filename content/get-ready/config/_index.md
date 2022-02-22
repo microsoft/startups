@@ -26,7 +26,7 @@ By passing configuration variables through Environment Variables, you are able t
 
 In our sample project, the configuration is stored in `project/settings.py`, as is the convention for Django projects. In some cases some configuration values might be embedded in code or in other configuration files. If you miss some, it's okay – you can always come back and fix it later.
 
-When we lookin `project/settings.py` we see a lot of values. Not all of these are things that need to be configured from the outside. There are a few that stand out, though.
+When we look in `project/settings.py` we see a lot of values. Not all of these are things that need to be configured from the outside. There are a few that stand out, though.
 
 ```python
 # SECURITY WARNING: keep the secret key used in production secret!
