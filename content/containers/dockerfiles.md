@@ -117,4 +117,4 @@ Play around with your Dockerfile and the `docker run` command to help you be com
 
 ## Getting Practical
 
-This Dockerfile isn't particularly useful - we want something to help us package our application. How to do that depends on what you've built your application in. We've included examples to help you get started with some of the most popular languages and frameworks, but you might need to do some work to get things working for your particular situation.
+This Dockerfile isn't particularly useful - we want something to help us package our application. Our next module will take us through building a dockerfile for our app.
