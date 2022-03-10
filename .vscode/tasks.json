@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "hugo",
+			"task": "server draft",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "hugo: Serve draft site"
+		}
+	]
+}
