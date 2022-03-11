@@ -1,6 +1,8 @@
-baseURL = 'https://microsoft.github.io/startups'
+# baseURL = 'https://microsoft.github.io/startups'
 languageCode = 'en-us'
 title = 'Startup Tech'
 theme = "learn"
 [params]
 themeVariant = "mine"
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
