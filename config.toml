@@ -4,3 +4,5 @@ title = 'Startup Tech'
 theme = "learn"
 [params]
 themeVariant = "mine"
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
