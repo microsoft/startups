@@ -5,18 +5,20 @@ date: 2022-03-11T21:23:47Z
 
 ## To create a shelf of AI APIs or to use an off-the-shelf AI API?
 
-If you're an AI startups, you evaluate the choices for AI infrastructure frequently (and if you do not, you should):
+Whether you’re a gaming startup making your character talk, or you’re creating a translation product with industry specific entity recognition, you evaluate the choices for AI infrastructure frequently.
 
-- Should you invest in up-front cost to create custom model
+> Should you create a custom model and train your model with available or synthetic data?
 
-### OR
+OR
 
-- Should you plug in an applied AI api?
+> Should you get started with an applied AI API and customize it for your solution?
 
-Oftentimes you evaluate when to make the switch from one choice to another. This guidebook intends to make that choice a bit easier, and future-proof.
+While custom models are the default answers for a lot of startups, oftentimes, those decisions are made without considering applied AI APIs as a feasible alternative. However, as we work with startups, we observe that the startups that leveraged applied AI service (like [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/#api) (like Speech, Language, Vision etc) or [OpenAI APIs](https://openai.com/api/)) ended up saving upfront investment and gained on their ability to prioritize innovation with that time and money. 
 
-AI APIs, like [OpenAI APIs](https://openai.com/api/ "OpenAI APIs"), or [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/#api "Azure Cognitive Services") (like Speech, Language, Vision, Decision, Cognitive Search, Bot Service) can help spin industry-best models through a simple API calls needing low to no maintenance on creator’s end.
+{{% notice note %}}
+Along with industry leading performance that these APIs bring, they also achieve MVP phase quicker, thereby going moving from experimentation to production rapidly
+{{% /notice %}}
 
-Adapting an open-source model can help train your own model, thereby having end-to-end control over what you're creating.
+**Applied AI APIs are the differentiators** that can help startups build an AI infrastructure that’ll automatically bring new or updated capabilities to their doorstep (e.g., another language support in Language Translation). 
 
-**However, most industry-best models allow for customization, and sometimes you do not need the industry-best performance. This guidebook will help you make the best decisions based upon this tradeoff and showcase of successful use-cases from your peer startups.**
+Their customization features like [Custom NER](https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/custom-named-entity-recognition/overview) and [Custom Neural Voice](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/custom-neural-voice) can help bridge the gap between industry innovation and rapid production.
