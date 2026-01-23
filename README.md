@@ -1,7 +1,7 @@
 # ![Startups guide to Azure](./media/banner.png)
 
 <p align="center">
-    <span style="font-weight: bold;">A list of resources & training to get your startup up and running on <a href="https://azure.microsoft.com?WT.mc_id=startups-github-cxa">Microsoft Azure.</a><span>
+    <span style="font-weight: bold;">And list of resources & training to get your startup up and running on <a href="https://azure.microsoft.com?WT.mc_id=startups-github-cxa">Microsoft Azure.</a><span>
 </p>
 
 <p align="center">
