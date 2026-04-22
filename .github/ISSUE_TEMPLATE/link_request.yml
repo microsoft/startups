@@ -1,0 +1,53 @@
+name: Link or resource request
+description: Request a new link or resource be added to an index or path
+title: "[Link request] "
+labels: ["link-request"]
+body:
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource name
+      description: What is the name of the resource or repo?
+    validations:
+      required: true
+  - type: input
+    id: resource-url
+    attributes:
+      label: Resource URL
+      description: Full URL to the resource
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Where should this go?
+      options:
+        - index/learn.md
+        - index/reference-repos.md
+        - index/agent-skills.md
+        - index/mcp.md
+        - paths/00-start-here
+        - paths/01-build-fast
+        - paths/02-scale-smart
+        - paths/03-sell-more
+        - paths/04-ai-agents
+        - paths/05-enterprise-readiness
+        - verticals/
+        - aeo/
+        - workshops/
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this useful for startup developers?
+      description: One or two sentences explaining the value
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: Who maintains this resource?
+      description: Team or GitHub org that owns the content
+    validations:
+      required: false

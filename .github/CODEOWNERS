@@ -1,0 +1,25 @@
+# CODEOWNERS — microsoft/startups
+# Assigns review responsibility by folder
+
+# Default owner for all files
+*                               @microsoft-for-startups/dev-marketing
+
+# Paths — technical review required
+/paths/                         @microsoft-for-startups/dev-marketing
+/paths/04-ai-agents/            @microsoft-for-startups/dev-marketing
+/paths/05-enterprise-readiness/ @microsoft-for-startups/dev-marketing
+
+# Verticals — technical + vertical lead review
+/verticals/                     @microsoft-for-startups/dev-marketing
+
+# Index — canonical links require accuracy review
+/index/                         @microsoft-for-startups/dev-marketing
+
+# AEO — prompt routing pages
+/aeo/                           @microsoft-for-startups/dev-marketing
+
+# Governance
+/governance/                    @microsoft-for-startups/dev-marketing
+
+# Workshops — contributor reviews their own drop
+/workshops/                     @microsoft-for-startups/dev-marketing

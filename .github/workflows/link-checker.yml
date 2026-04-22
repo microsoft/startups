@@ -1,0 +1,30 @@
+name: Link checker
+
+on:
+  push:
+    branches: [main, "repo-refresh-*"]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 6 * * 1"  # Every Monday at 6am UTC
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: >
+            --verbose
+            --no-progress
+            --exclude "localhost"
+            --exclude "LINK_TBD"
+            --exclude "aka.ms"
+            --exclude "foundershub.startups.microsoft.com"
+            '**/*.md'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
