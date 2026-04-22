@@ -18,20 +18,20 @@ Content is timed to Microsoft Build 2026.
 ## Suggested starting points
 
 **New to AI agents on Azure?**
-→ ../../04-ai-agents/
+[Browse AI agents](../../04-ai-agents/)
 
 **Building for enterprise buyers?**
-→ ../../05-enterprise-readiness/
+[Browse enterprise readiness](../../05-enterprise-readiness/)
 
 **Want to drop workshop materials from Build?**
-→ ../../../workshops/README.md
+[Workshop contribution guide](../../../workshops/README.md)
 
 ---
 
 ## Canonical resources for this drop
 
-→ ./links.md
+[Canonical resources](./links.md)
 
 ## Ownership + freshness
 
-→ ./owners.md
+[Ownership + freshness](./owners.md)

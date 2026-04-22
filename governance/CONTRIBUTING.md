@@ -22,22 +22,22 @@ Thank you for contributing to the Microsoft for Startups developer hub.
 ## How to contribute a link or resource
 
 Open an issue using the
-../.github/ISSUE_TEMPLATE/link_request.yml.
+[link request issue form](../.github/ISSUE_TEMPLATE/link_request.yml).
 
 ## How to contribute a workshop drop
 
-See ../workshops/README.md for the folder
+See [workshops/README.md](../workshops/README.md) for the folder
 structure and content rules.
 
 ## How to report a broken link
 
 Open an issue using the
-../.github/ISSUE_TEMPLATE/bug.yml.
+[bug report issue form](../.github/ISSUE_TEMPLATE/bug.yml).
 
 ## PR checklist
 
 All pull requests must satisfy the checklist in
-../.github/PULL_REQUEST_TEMPLATE.md.
+[.github/PULL_REQUEST_TEMPLATE.md](../.github/PULL_REQUEST_TEMPLATE.md).
 
 ## Voice and tone
 

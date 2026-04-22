@@ -37,7 +37,7 @@ architecture — multi-tenant, observable, resilient, and cost-efficient.
    → https://learn.microsoft.com/en-us/azure/reliability/
 
 ## Canonical resources
-→ ./links.md
+[Canonical resources](./links.md)
 
 ## Ownership + freshness
-→ ./owners.md
+[Ownership + freshness](./owners.md)

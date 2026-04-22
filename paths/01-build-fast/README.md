@@ -32,7 +32,7 @@ on Azure — web apps, APIs, serverless functions, or data pipelines.
    → https://learn.microsoft.com/en-us/azure/azure-monitor/
 
 ## Canonical resources
-→ ./links.md
+[Canonical resources](./links.md)
 
 ## Ownership + freshness
-→ ./owners.md
+[Ownership + freshness](./owners.md)

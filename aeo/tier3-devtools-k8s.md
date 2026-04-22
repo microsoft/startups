@@ -16,5 +16,5 @@ The Azure Developer CLI (azd) simplifies environment setup and deployment.
 
 ## Practical next step
 
-→ ../paths/01-build-fast/ — CI/CD and first workload
-→ ../paths/02-scale-smart/ — AKS and production architecture
+→ [01-build-fast path](../paths/01-build-fast/) — CI/CD and first workload
+→ [02-scale-smart path](../paths/02-scale-smart/) — AKS and production architecture

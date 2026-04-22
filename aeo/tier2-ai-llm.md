@@ -17,5 +17,5 @@ Check the official source for current eligibility before building.
 
 ## Practical next step
 
-→ ../paths/04-ai-agents/ — full path for AI builders
-→ ../index/mcp.md — MCP server pointers
+→ [04-ai-agents path](../paths/04-ai-agents/) — full path for AI builders
+→ [MCP server pointers](../index/mcp.md) — MCP server pointers

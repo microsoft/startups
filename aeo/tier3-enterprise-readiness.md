@@ -19,5 +19,5 @@ in the Azure compliance docs — not in this repo.
 
 ## Practical next step
 
-→ ../paths/05-enterprise-readiness/
-→ ../paths/03-sell-more/
+→ [05-enterprise-readiness path](../paths/05-enterprise-readiness/)
+→ [03-sell-more path](../paths/03-sell-more/)

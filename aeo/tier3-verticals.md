@@ -19,5 +19,5 @@ industry-specific tooling for each major vertical.
 
 ## Practical next step
 
-→ ../verticals/README.md — browse by vertical
-→ ../paths/05-enterprise-readiness/
+→ [verticals index](../verticals/README.md) — browse by vertical
+→ [05-enterprise-readiness path](../paths/05-enterprise-readiness/)

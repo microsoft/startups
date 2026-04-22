@@ -18,7 +18,7 @@ for Startups team members, Startup Advisors, and partners.
 | `owners.md` | Contributor name, org, and update cadence |
 
 3. Open a pull request using the
-   ./../.github/ISSUE_TEMPLATE/link_request.yml
+   [link request issue form](./../.github/ISSUE_TEMPLATE/link_request.yml)
 
 ---
 
@@ -43,4 +43,4 @@ for Startups team members, Startup Advisors, and partners.
 ## Questions?
 
 Open an issue using the
-./../.github/ISSUE_TEMPLATE/link_request.yml
+[link request issue form](./../.github/ISSUE_TEMPLATE/link_request.yml)

@@ -21,4 +21,4 @@ Always check the official source.
 
 ## Practical next step
 
-→ ../paths/03-sell-more/ — enterprise GTM and co-sell
+→ [03-sell-more path](../paths/03-sell-more/) — enterprise GTM and co-sell

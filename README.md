@@ -12,7 +12,7 @@ official sources linked below.
 
 ## 🚀 Start here
 
-→ ./START_HERE.md
+[Start here](./START_HERE.md)
 
 ---
 
@@ -20,33 +20,32 @@ official sources linked below.
 
 | Path | Who it's for |
 |---|---|
-| ./paths/00-start-here/ | Every startup new to Azure + MfS |
-| ./paths/01-build-fast/ | Early-stage builders shipping first workloads |
-| ./paths/02-scale-smart/ | Growing startups moving to production |
-| ./paths/03-sell-more/ | GTM-ready startups targeting enterprise |
-| ./paths/04-ai-agents/ | Founders building with Foundry + agent frameworks |
-| ./paths/05-enterprise-readiness/ | Startups preparing for enterprise security reviews |
+| [00-start-here](./paths/00-start-here/) | Every startup new to Azure + MfS |
+| [01-build-fast](./paths/01-build-fast/) | Early-stage builders shipping first workloads |
+| [02-scale-smart](./paths/02-scale-smart/) | Growing startups moving to production |
+| [03-sell-more](./paths/03-sell-more/) | GTM-ready startups targeting enterprise |
+| [04-ai-agents](./paths/04-ai-agents/) | Founders building with Foundry + agent frameworks |
+| [05-enterprise-readiness](./paths/05-enterprise-readiness/) | Startups preparing for enterprise security reviews |
 
 ---
 
 ## 📦 Monthly featured drop
 
-→ ./paths/featured/2026-05-build/
-*May 2026 · Microsoft Build edition*
+[May 2026 Build edition](./paths/featured/2026-05-build/)
 
 ---
 
 ## 🗂️ Browse by vertical
 
-→ ./verticals/README.md
+[Vertical index](./verticals/README.md)
 
 | Vertical | Folder |
 |---|---|
-| Health & Life Sciences | ./verticals/regulated-industries/healthcare-life-sciences.md |
-| FSI (Financial Services) | ./verticals/regulated-industries/fintech.md |
-| Cybersecurity | ./verticals/security-privacy-trust/ |
-| Retail | ./verticals/commerce-media-cx/ |
-| Data & AI / DevTools | ./verticals/devtools-horizontal-saas/ |
+| [Health & Life Sciences](./verticals/regulated-industries/healthcare-life-sciences.md) | Enterprise healthcare and life sciences scenarios |
+| [FSI (Financial Services)](./verticals/regulated-industries/fintech.md) | Regulated financial services and fintech offerings |
+| [Cybersecurity](./verticals/security-privacy-trust/) | Security, privacy, and trust guidance |
+| [Retail](./verticals/commerce-media-cx/) | Commerce and customer experience scenarios |
+| [Data & AI / DevTools](./verticals/devtools-horizontal-saas/) | Data, AI, and developer platform guidance |
 
 ---
 
@@ -54,10 +53,10 @@ official sources linked below.
 
 | Index | What it covers |
 |---|---|
-| ./index/learn.md | Microsoft Learn content relevant to startup developers |
-| ./index/reference-repos.md | Product-team GitHub repos worth following |
-| ./index/agent-skills.md | MicrosoftDocs/Agent-Skills and related resources |
-| ./index/mcp.md | MCP server pointers for in-workflow learning |
+| [Learn index](./index/learn.md) | Microsoft Learn content relevant to startup developers |
+| [Reference repos](./index/reference-repos.md) | Product-team GitHub repos worth following |
+| [Agent skills](./index/agent-skills.md) | MicrosoftDocs/Agent-Skills and related resources |
+| [MCP server](./index/mcp.md) | MCP server pointers for in-workflow learning |
 
 ---
 
@@ -65,20 +64,21 @@ official sources linked below.
 
 Short answers + canonical sources for common founder questions.
 
-→ ./aeo/README.md
+[AEOS prompt routing](./aeo/README.md)
 
 ---
 
 ## 🛠️ Workshops + partner drops
 
-→ ./workshops/README.md
+[Workshops](./workshops/README.md)
 
 ---
 
 ## 🤝 Contributing
 
-→ ./governance/CONTRIBUTING.md
-→ ./governance/GOVERNANCE.md
+[Contributing guide](./governance/CONTRIBUTING.md)
+
+[Governance](./governance/GOVERNANCE.md)
 
 ---
 

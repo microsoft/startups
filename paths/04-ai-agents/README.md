@@ -33,12 +33,12 @@ Foundry, GitHub, and related Microsoft tooling.
 4. **Add tool use and MCP**
    → https://modelcontextprotocol.io/
    → [Azure MCP Server](https://learn.microsoft.com/en-us/azure/developer/azure-mcp-server/overview)
-   → ../../index/mcp.md
+   → [MCP server guide](../../index/mcp.md)
 
 5. **Design for enterprise-grade agents**
    Enterprise buyers expect: identity model, scoped permissions,
    audit logging, and policy alignment.
-   → ../05-enterprise-readiness/
+   → [Enterprise readiness](../05-enterprise-readiness/)
    → [Building trustworthy AI agents — ai-agents-for-beginners lesson 6](https://github.com/microsoft/ai-agents-for-beginners)
 
 6. **Connect to GitHub workflows**
@@ -53,7 +53,7 @@ autonomy inside enterprise environments.
 → [Microsoft for Startups blog](https://startups.microsoft.com/blog)
 
 ## Canonical resources
-→ ./links.md
+[Canonical resources](./links.md)
 
 ## Ownership + freshness
-→ ./owners.md
+[Ownership + freshness](./owners.md)

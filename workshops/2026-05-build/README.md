@@ -31,8 +31,8 @@ By the end of this workshop, participants will be able to:
 
 ## Canonical resources
 
-→ ./links.md
+[Canonical resources](./links.md)
 
 ## Ownership
 
-→ ./owners.md
+[Ownership](./owners.md)

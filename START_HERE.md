@@ -18,41 +18,41 @@ It helps you find the right resource faster.
 ## What stage are you at?
 
 **Just getting started on Azure**
-→ ./paths/00-start-here/
+[Start with 00-start-here](./paths/00-start-here/)
 Covers account setup, credits activation, first workload orientation.
 
 **Building your first production workload**
-→ ./paths/01-build-fast/
+[Start with 01-build-fast](./paths/01-build-fast/)
 Web apps, APIs, serverless, CI/CD, cost-aware architecture.
 
 **Moving from prototype to production**
-→ ./paths/02-scale-smart/
+[Start with 02-scale-smart](./paths/02-scale-smart/)
 AKS, multi-tenancy, observability, identity, resilience.
 
 **Preparing to sell to enterprise customers**
-→ ./paths/03-sell-more/
+[Start with 03-sell-more](./paths/03-sell-more/)
 Azure Marketplace listing, co-sell motion, enterprise readiness checklist.
 
 **Building AI-powered products or agents**
-→ ./paths/04-ai-agents/
+[Start with 04-ai-agents](./paths/04-ai-agents/)
 Azure AI Foundry, model choice, agent frameworks, MCP.
 
 **Passing enterprise security or compliance reviews**
-→ ./paths/05-enterprise-readiness/
+[Start with 05-enterprise-readiness](./paths/05-enterprise-readiness/)
 Zero-trust, workload identity, secrets management, audit logging.
 
 ---
 
 ## Building for a specific industry?
 
-→ ./verticals/README.md
+[Browse verticals](./verticals/README.md)
 Covers Health & Life Sciences, FSI, Cybersecurity, Retail, Data & AI.
 
 ---
 
 ## Have a question you typed into an AI assistant?
 
-→ ./aeo/README.md
+[Browse AEO pages](./aeo/README.md)
 Short answers with canonical sources for common founder prompts.
 
 ---

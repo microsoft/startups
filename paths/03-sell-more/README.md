@@ -20,7 +20,7 @@ co-sell, and GTM motions.
 2. **Meet the enterprise technical baseline**
    Enterprise buyers commonly evaluate: identity model, data residency,
    audit logging, compliance posture, and SLA commitments.
-   → ../05-enterprise-readiness/
+   → [Enterprise readiness](../05-enterprise-readiness/)
 
 3. **Understand co-sell eligibility**
    → https://learn.microsoft.com/en-us/azure/marketplace/co-sell-overview
@@ -37,7 +37,7 @@ co-sell, and GTM motions.
    → https://learn.microsoft.com/en-us/legal/marketplace/certification-policies
 
 ## Canonical resources
-→ ./links.md
+[Canonical resources](./links.md)
 
 ## Ownership + freshness
-→ ./owners.md
+[Ownership + freshness](./owners.md)

@@ -26,11 +26,11 @@ Microsoft for Startups and are activating their credits.
    → https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources
 
 5. **Choose your first workload path**
-   → ../01-build-fast/ — if you are shipping something now
-   → ../04-ai-agents/ — if you are building an AI product
+   → [01-build-fast](../01-build-fast/) — if you are shipping something now
+   → [04-ai-agents](../04-ai-agents/) — if you are building an AI product
 
 ## Canonical resources
-→ ./links.md
+[Canonical resources](./links.md)
 
 ## Ownership + freshness
-→ ./owners.md
+[Ownership + freshness](./owners.md)

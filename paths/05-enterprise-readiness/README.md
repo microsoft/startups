@@ -31,9 +31,9 @@ enterprise customers.
    → https://learn.microsoft.com/en-us/azure/defender-for-cloud/
 
 4. **Understand compliance frameworks for your vertical**
-   → ../../verticals/regulated-industries/healthcare-life-sciences.md
-   → ../../verticals/regulated-industries/fintech.md
-   → ../../verticals/security-privacy-trust/
+   → [Health & Life Sciences vertical](../../verticals/regulated-industries/healthcare-life-sciences.md)
+   → [Financial services vertical](../../verticals/regulated-industries/fintech.md)
+   → [Cybersecurity vertical](../../verticals/security-privacy-trust/)
    → https://learn.microsoft.com/en-us/azure/compliance/
 
 5. **Prepare your enterprise readiness brief**
@@ -46,10 +46,10 @@ enterprise customers.
 
 6. **Review the Azure Marketplace technical requirements**
    Required for co-sell and enterprise GTM motions.
-   → ../03-sell-more/
+   → [Sell more](../03-sell-more/)
 
 ## Canonical resources
-→ ./links.md
+[Canonical resources](./links.md)
 
 ## Ownership + freshness
-→ ./owners.md
+[Ownership + freshness](./owners.md)
