@@ -11,3 +11,4 @@
 | Azure Key Vault | https://learn.microsoft.com/en-us/azure/key-vault/ |
 | Azure reliability | https://learn.microsoft.com/en-us/azure/reliability/ |
 | Azure Container Registry | https://learn.microsoft.com/en-us/azure/container-registry/ |
+| Azure Data Factory | https://docs.microsoft.com/azure/data-factory/?WT.mc_id=startups-github-cxa |
