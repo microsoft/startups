@@ -25,8 +25,8 @@ Financial services enterprises evaluate startups on:
 | Azure Monitor | Audit logging and compliance reporting |
 | Azure Policy | Enforce compliance guardrails at scale |
 
-→ https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-pci-dss
-→ https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2
+https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-pci-dss
+https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2
 
 ---
 

@@ -25,8 +25,8 @@ Healthcare and life sciences enterprises evaluate startups on:
 | Azure Key Vault | Encrypt and manage PHI-adjacent secrets |
 | Microsoft Purview | Data governance and classification |
 
-→ https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-hipaa-us
-→ https://learn.microsoft.com/en-us/azure/health-data-services/
+https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-hipaa-us
+https://learn.microsoft.com/en-us/azure/health-data-services/
 
 ---
 

@@ -14,17 +14,16 @@ co-sell, and GTM motions.
 ## The path (recommended order)
 
 1. **Understand Azure Marketplace**
-   → https://learn.microsoft.com/en-us/azure/marketplace/publisher-guide-by-offer-type
-   → https://learn.microsoft.com/en-us/azure/marketplace/publisher-guide-by-offer-type
+   https://learn.microsoft.com/en-us/azure/marketplace/publisher-guide-by-offer-type
 
 2. **Meet the enterprise technical baseline**
    Enterprise buyers commonly evaluate: identity model, data residency,
    audit logging, compliance posture, and SLA commitments.
-   → [Enterprise readiness](../05-enterprise-readiness/)
+   [Enterprise readiness](../05-enterprise-readiness/)
 
 3. **Understand co-sell eligibility**
-   → https://learn.microsoft.com/en-us/azure/marketplace/co-sell-overview
-   → Co-sell eligibility requires an active Marketplace offer and a
+   https://learn.microsoft.com/en-us/azure/marketplace/co-sell-overview
+   Co-sell eligibility requires an active Marketplace offer and a
      completed solution profile. See official docs for current requirements.
 
 4. **Prepare your GTM story**
@@ -34,7 +33,7 @@ co-sell, and GTM motions.
    - Enterprise customer introduction motions via Pegasus
 
 5. **Review the Marketplace technical requirements**
-   → https://learn.microsoft.com/en-us/legal/marketplace/certification-policies
+   https://learn.microsoft.com/en-us/legal/marketplace/certification-policies
 
 ## Canonical resources
 [Canonical resources](./links.md)

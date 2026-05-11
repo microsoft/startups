@@ -13,23 +13,23 @@ on Azure — web apps, APIs, serverless functions, or data pipelines.
 ## The path (recommended order)
 
 1. **Choose your compute pattern**
-   → https://learn.microsoft.com/en-us/azure/app-service/ — web apps and APIs
-   → https://learn.microsoft.com/en-us/azure/container-apps/ — containerized microservices
-   → https://learn.microsoft.com/en-us/azure/azure-functions/ — serverless event-driven workloads
+   https://learn.microsoft.com/en-us/azure/app-service/ — web apps and APIs
+   https://learn.microsoft.com/en-us/azure/container-apps/ — containerized microservices
+   https://learn.microsoft.com/en-us/azure/azure-functions/ — serverless event-driven workloads
 
 2. **Set up your database**
-   → https://learn.microsoft.com/en-us/azure/postgresql/
-   → https://learn.microsoft.com/en-us/azure/cosmos-db/ — for global scale or NoSQL patterns
+   https://learn.microsoft.com/en-us/azure/postgresql/
+   https://learn.microsoft.com/en-us/azure/cosmos-db/ — for global scale or NoSQL patterns
 
 3. **Connect GitHub to Azure for CI/CD**
-   → https://learn.microsoft.com/en-us/azure/developer/github/github-actions
+   https://learn.microsoft.com/en-us/azure/developer/github/github-actions
 
 4. **Apply cost-aware defaults**
-   → https://learn.microsoft.com/en-us/azure/cost-management-billing/
-   → Start on consumption-based tiers. Reserve capacity only when usage is predictable.
+   https://learn.microsoft.com/en-us/azure/cost-management-billing/
+   Start on consumption-based tiers. Reserve capacity only when usage is predictable.
 
 5. **Add observability from the start**
-   → https://learn.microsoft.com/en-us/azure/azure-monitor/
+   https://learn.microsoft.com/en-us/azure/azure-monitor/
 
 ## Canonical resources
 [Canonical resources](./links.md)

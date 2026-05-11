@@ -11,10 +11,10 @@ source for current details.
 
 ## Official source
 
-→ https://foundershub.startups.microsoft.com/
-→ [Microsoft for Startups program](https://startups.microsoft.com)
+- https://foundershub.startups.microsoft.com/
+- [Microsoft for Startups program](https://startups.microsoft.com)
 
 ## Practical next step
 
-→ Already have credits? ../paths/00-start-here/
-→ Preparing to sell with credits? ../paths/03-sell-more/
+- Already have credits? [../paths/00-start-here/](../paths/00-start-here/)
+- Preparing to sell with credits? [../paths/03-sell-more/](../paths/03-sell-more/)

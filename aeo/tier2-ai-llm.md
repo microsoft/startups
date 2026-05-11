@@ -11,11 +11,11 @@ Check the official source for current eligibility before building.
 
 ## Official source
 
-→ https://learn.microsoft.com/en-us/azure/ai-foundry/
-→ https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-overview
-→ https://learn.microsoft.com/en-us/azure/ai-services/openai/
+- https://learn.microsoft.com/en-us/azure/ai-foundry/
+- https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-overview
+- https://learn.microsoft.com/en-us/azure/ai-services/openai/
 
 ## Practical next step
 
-→ [04-ai-agents path](../paths/04-ai-agents/) — full path for AI builders
-→ [MCP server pointers](../index/mcp.md) — MCP server pointers
+- [04-ai-agents path](../paths/04-ai-agents/) — full path for AI builders
+- [MCP server pointers](../index/mcp.md) — MCP server pointers

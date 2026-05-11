@@ -16,9 +16,9 @@ Always check the official source.
 
 ## Official source
 
-→ [startups.microsoft.com](https://startups.microsoft.com)
-→ Contact your Microsoft for Startups Startup Advisor for Pegasus details.
+- [startups.microsoft.com](https://startups.microsoft.com)
+- Contact your Microsoft for Startups Startup Advisor for Pegasus details.
 
 ## Practical next step
 
-→ [03-sell-more path](../paths/03-sell-more/) — enterprise GTM and co-sell
+- [03-sell-more path](../paths/03-sell-more/) — enterprise GTM and co-sell

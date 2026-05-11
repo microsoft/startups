@@ -1,5 +1,7 @@
 ﻿# Microsoft for Startups — Developer Hub
 
+![Microsoft for Startups](./images/mfs.png)
+
 A developer-first collection of guided paths, curated link indexes,
 and prompt routing pages to help startup developers build, scale,
 and ship on Azure.
@@ -76,9 +78,9 @@ Short answers + canonical sources for common founder questions.
 
 ## 🤝 Contributing
 
-[Contributing guide](./governance/CONTRIBUTING.md)
+[Contributing guide](./CONTRIBUTING.md)
 
-[Governance](./governance/GOVERNANCE.md)
+[Governance](./GOVERNANCE.md)
 
 ---
 

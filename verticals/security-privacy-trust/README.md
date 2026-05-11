@@ -25,8 +25,8 @@ Enterprise security buyers evaluate startups on:
 | Azure Monitor | Log collection and audit trail |
 | Microsoft Purview | Data classification and governance |
 
-→ https://learn.microsoft.com/en-us/azure/sentinel/
-→ [Zero-trust on Azure](https://learn.microsoft.com/en-us/startups/)
+https://learn.microsoft.com/en-us/azure/sentinel/
+[Zero-trust on Azure](https://learn.microsoft.com/en-us/startups/)
 
 ---
 

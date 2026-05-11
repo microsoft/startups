@@ -13,10 +13,10 @@ and benefits change. Always check the official source.
 
 ## Official source
 
-→ [startups.microsoft.com](https://startups.microsoft.com)
-→ [Microsoft for Startups Learn hub](https://learn.microsoft.com/en-us/microsoft-for-startups/)
+- [startups.microsoft.com](https://startups.microsoft.com)
+- [Microsoft for Startups Learn hub](https://learn.microsoft.com/en-us/microsoft-for-startups/)
 
 ## Practical next step
 
-→ New to Azure and MfS? ../paths/00-start-here/
-→ Building an AI product? ../paths/04-ai-agents/
+- New to Azure and MfS? [../paths/00-start-here/](../paths/00-start-here/)
+- Building an AI product? [../paths/04-ai-agents/](../paths/04-ai-agents/)

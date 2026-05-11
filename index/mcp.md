@@ -11,7 +11,7 @@ Model Context Protocol (MCP) is an open standard that allows
 AI agents and LLM clients to connect to external data sources
 and tools. It enables in-workflow learning and grounded responses.
 
-→ https://modelcontextprotocol.io/
+https://modelcontextprotocol.io/
 
 ---
 
@@ -34,4 +34,4 @@ and tools. It enables in-workflow learning and grounded responses.
 
 *Startup credits coverage for MCP-connected third-party models
 varies. Check the official source for current eligibility.*
-→ [startups.microsoft.com](https://startups.microsoft.com)
+[startups.microsoft.com](https://startups.microsoft.com)

@@ -13,11 +13,11 @@ in the Azure compliance docs — not in this repo.
 
 ## Official sources
 
-→ [Zero-trust on Azure](https://learn.microsoft.com/en-us/startups/)
-→ https://learn.microsoft.com/en-us/azure/compliance/
-→ https://learn.microsoft.com/en-us/azure/marketplace/publisher-guide-by-offer-type
+- [Zero-trust on Azure](https://learn.microsoft.com/en-us/startups/)
+- https://learn.microsoft.com/en-us/azure/compliance/
+- https://learn.microsoft.com/en-us/azure/marketplace/publisher-guide-by-offer-type
 
 ## Practical next step
 
-→ [05-enterprise-readiness path](../paths/05-enterprise-readiness/)
-→ [03-sell-more path](../paths/03-sell-more/)
+- [05-enterprise-readiness path](../paths/05-enterprise-readiness/)
+- [03-sell-more path](../paths/03-sell-more/)
