@@ -1,4 +1,4 @@
-﻿# Microsoft for Startups — Developer Hub
+﻿# Microsoft for Startups
 
 ![Microsoft for Startups](./images/mfs.png)
 
