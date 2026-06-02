@@ -10,10 +10,6 @@ This repo is a router, not a source of truth.
 For pricing, credits, and service entitlements, always follow the
 official sources linked below.
 
----
-
-## Start here
-
 [Start here](./START_HERE.md)
 
 ---
