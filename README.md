@@ -30,8 +30,6 @@ official sources linked below.
 
 ## Browse by vertical
 
-[Vertical index](./verticals/README.md)
-
 | Vertical | Folder |
 |---|---|
 | [Health & Life Sciences](./verticals/regulated-industries/healthcare-life-sciences.md) | Enterprise healthcare and life sciences scenarios |
