@@ -33,7 +33,7 @@ official sources linked below.
 | Vertical | Folder |
 |---|---|
 | [Health & Life Sciences](./verticals/regulated-industries/healthcare-life-sciences.md) | Enterprise healthcare and life sciences scenarios |
-| [FSI (Financial Services)](./verticals/regulated-industries/fintech.md) | Regulated financial services and fintech offerings |
+| [Financial Services](./verticals/regulated-industries/fintech.md) | Regulated financial services and fintech offerings |
 | [Cybersecurity](./verticals/security-privacy-trust/) | Security, privacy, and trust guidance |
 | [Retail](./verticals/commerce-media-cx/) | Commerce and customer experience scenarios |
 | [Data & AI / DevTools](./verticals/devtools-horizontal-saas/) | Data, AI, and developer platform guidance |
