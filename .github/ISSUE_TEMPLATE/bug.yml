@@ -1,0 +1,27 @@
+name: Broken link or outdated content
+description: Report a broken link or content that is no longer accurate
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: input
+    id: file-path
+    attributes:
+      label: File path
+      description: Which file contains the broken link or outdated content?
+      placeholder: "e.g. paths/01-build-fast/links.md"
+    validations:
+      required: true
+  - type: input
+    id: broken-link
+    attributes:
+      label: Broken link or outdated content
+      description: Paste the broken URL or describe what is outdated
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement (if known)
+      description: Correct URL or updated content suggestion
+    validations:
+      required: false
