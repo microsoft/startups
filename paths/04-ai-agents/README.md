@@ -12,7 +12,7 @@ Foundry, GitHub, and related Microsoft tooling.
 - Understand how to take an agent to production safely
 - Know how to connect your agent to enterprise systems
 
-## The path (recommended order)
+## The path 
 
 1. **Start with Azure AI Foundry**
    https://learn.microsoft.com/en-us/azure/ai-foundry/
