@@ -15,13 +15,11 @@ Foundry, GitHub, and related Microsoft tooling.
 ## The path 
 
 1. **Start with Azure AI Foundry**
-   https://learn.microsoft.com/en-us/azure/ai-foundry/
-   Foundry is the production AI layer: model catalog, agent creation,
+   [Foundry] (https://learn.microsoft.com/en-us/azure/ai-foundry/) is the production AI layer: model catalog, agent creation,
    inference, and observability. Start here before picking a framework.
 
 2. **Choose your model**
-   https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-overview
-   Startup credits coverage varies by model. Check the official source
+   Startup credits coverage varies by [model](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-overview). Check the official source
    for current eligibility before building.
 
 3. **Build your first agent**
@@ -31,7 +29,7 @@ Foundry, GitHub, and related Microsoft tooling.
    https://learn.microsoft.com/en-us/azure/ai-services/agents/
 
 4. **Add tool use and MCP**
-   https://modelcontextprotocol.io/
+   [Understanding MCP](https://modelcontextprotocol.io/)
    [Azure MCP Server](https://learn.microsoft.com/en-us/azure/developer/azure-mcp-server/overview)
    [MCP server guide](../../index/mcp.md)
 
