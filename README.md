@@ -12,7 +12,7 @@ official sources linked below.
 
 ---
 
-## 🚀 Start here
+## Start here
 
 [Start here](./START_HERE.md)
 
@@ -31,13 +31,8 @@ official sources linked below.
 
 ---
 
-## 📦 Monthly featured drop
 
-[May 2026 Build edition](./paths/featured/2026-05-build/)
-
----
-
-## 🗂️ Browse by vertical
+## Browse by vertical
 
 [Vertical index](./verticals/README.md)
 
@@ -51,7 +46,7 @@ official sources linked below.
 
 ---
 
-## 📚 Indexes (canonical link catalogs)
+## Indexes
 
 | Index | What it covers |
 |---|---|
@@ -62,21 +57,8 @@ official sources linked below.
 
 ---
 
-## 🤖 AEO prompt routing pages
 
-Short answers + canonical sources for common founder questions.
-
-[AEOS prompt routing](./aeo/README.md)
-
----
-
-## 🛠️ Workshops + partner drops
-
-[Workshops](./workshops/README.md)
-
----
-
-## 🤝 Contributing
+## Contributing
 
 [Contributing guide](./CONTRIBUTING.md)
 
