@@ -15,32 +15,30 @@ Foundry, GitHub, and related Microsoft tooling.
 ## The path 
 
 1. **Start with Azure AI Foundry**
-   [Foundry] (https://learn.microsoft.com/en-us/azure/ai-foundry/) is the production AI layer: model catalog, agent creation,
-   inference, and observability. Start here before picking a framework.
+   - [Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/) is the production AI layer: model catalog, agent creation, inference, and observability. Start here before picking a framework.
 
 2. **Choose your model**
-   Startup credits coverage varies by [model](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-overview). Check the official source
-   for current eligibility before building.
+   - Startup credits coverage varies by [model](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-overview). Check the official source for current eligibility before building.
 
 3. **Build your first agent**
-   [AI Agents for Beginners — microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+   - [AI Agents for Beginners — microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
    15 lessons, working code, Foundry-native. Start here for
    course-style onboarding.
-   https://learn.microsoft.com/en-us/azure/ai-services/agents/
+   - [Learn More about Agents](https://learn.microsoft.com/en-us/azure/ai-services/agents/)
 
 4. **Add tool use and MCP**
-   [Understanding MCP](https://modelcontextprotocol.io/)
-   [Azure MCP Server](https://learn.microsoft.com/en-us/azure/developer/azure-mcp-server/overview)
-   [MCP server guide](../../index/mcp.md)
+   - [Understanding MCP](https://modelcontextprotocol.io/)
+   - [Azure MCP Server](https://learn.microsoft.com/en-us/azure/developer/azure-mcp-server/overview)
+   - [MCP server guide](../../index/mcp.md)
 
 5. **Design for enterprise-grade agents**
-   Enterprise buyers expect: identity model, scoped permissions,
+   - Enterprise buyers expect: identity model, scoped permissions,
    audit logging, and policy alignment.
-   [Enterprise readiness](../05-enterprise-readiness/)
-   [Building trustworthy AI agents — ai-agents-for-beginners lesson 6](https://github.com/microsoft/ai-agents-for-beginners)
+   - [Enterprise readiness](../05-enterprise-readiness/)
+   - [Building trustworthy AI agents — ai-agents-for-beginners lesson 6](https://github.com/microsoft/ai-agents-for-beginners)
 
 6. **Connect to GitHub workflows**
-   [GitHub Copilot CLI + autopilot mode](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/)
+   - [GitHub Copilot CLI + autopilot mode](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/)
    Agents that operate inside developer workflows (GitHub, VS Code)
    reduce friction and stay in the flow developers already use.
 
@@ -48,7 +46,7 @@ Foundry, GitHub, and related Microsoft tooling.
 **Overcut** — agentic SDLC automation built on AKS, Azure OpenAI,
 Key Vault, Event Hubs, and ACR. Architecture designed for controlled
 autonomy inside enterprise environments.
-[Microsoft for Startups blog](https://startups.microsoft.com/blog)
+- [Microsoft for Startups blog](https://startups.microsoft.com/blog)
 
 ## Canonical resources
 [Canonical resources](./links.md)
