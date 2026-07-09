@@ -2,8 +2,8 @@
 
 | Field | Value |
 |---|---|
-| Technical owner | Tom Quinn (Microsoft for Startups Engineering) |
-| Content owner | Angel Pichardo (Microsoft for Startups Developer Marketing) |
-| Last reviewed | April 2026 |
+| Technical owner | Deidre Morrison (Microsoft for Startups Technical Enablement) |
+| Content owner | Sarah Gaspari (Microsoft for Startups Developer Marketing) |
+| Last reviewed | July 2026 |
 | Review cadence | Quarterly |
-| Source of truth | https://learn.microsoft.com/en-us/microsoft-for-startups/ |
+| Source of truth | https://learn.microsoft.com/startups/ |
