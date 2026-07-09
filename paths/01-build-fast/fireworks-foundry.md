@@ -33,7 +33,7 @@ The account used by the Visual Studio Code Azure extension may not be the same a
  
 ### 1. Deploy a Fireworks model in Microsoft Foundry 
  
-1. Open the Microsoft Foundry portal and create or select a project. 
+1. Open the [Microsoft Foundry portal](https://ai.azure.com/) and create or select a project. 
 2. Open the model catalog, filter by publisher Fireworks AI, and choose the model you want to use. 
 3. Select the deployment option that fits your workload: Data Zone Standard / per-token for prototypes and variable traffic, or Global provisioned throughput for predictable production workloads that need reserved capacity and more consistent performance. 
 4. Deploy the model and wait until the deployment status is Succeeded. 
