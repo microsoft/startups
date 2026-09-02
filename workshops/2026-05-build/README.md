@@ -19,8 +19,6 @@ By the end of this workshop, participants will be able to:
 
 ## Agenda (placeholder)
 
-*Full agenda and materials to be added before May 2026.*
-
 1. Intro to Azure AI Foundry (20 min)
 2. Building your first agent with tool use (30 min)
 3. Enterprise readiness for agents: identity, logging, governance (20 min)
