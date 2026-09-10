@@ -3,7 +3,6 @@
 | Resource | Link |
 |---|---|
 | Azure AI Foundry | https://learn.microsoft.com/en-us/azure/ai-foundry/ |
-| Model catalog overview | https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-overview |
 | Azure AI Agent Service | https://learn.microsoft.com/en-us/azure/ai-services/agents/ |
 | AI Agents for Beginners (GitHub) | https://github.com/microsoft/ai-agents-for-beginners |
 | MicrosoftDocs/Agent-Skills | https://github.com/MicrosoftDocs/Agent-Skills |
@@ -26,7 +25,7 @@
 | QnA Maker | https://docs.microsoft.com/azure/cognitive-services/qnamaker/index?WT.mc_id=startups-github-cxa |
 | Text Analytics | https://docs.microsoft.com/azure/cognitive-services/text-analytics/index?WT.mc_id=startups-github-cxa |
 | Machine Learning | https://docs.microsoft.com/azure/machine-learning/?WT.mc_id=startups-github-cxa |
-| Azure Bot Service | https://docs.microsoft.com/bot-framework/bot-service-overview-introduction?WT.mc_id=startups-github-cxa |
+| Azure Bot Service | https://learn.microsoft.com/en-us/azure/bot-service/ |
 | Azure Cognitive Search | https://docs.microsoft.com/azure/search/?WT.mc_id=startups-github-cxa |
 | Open Datasets | https://docs.microsoft.com/azure/open-datasets?WT.mc_id=startups-github-cxa |
 | Cognitive Services | https://docs.microsoft.com/azure/cognitive-services/?WT.mc_id=startups-github-cxa |

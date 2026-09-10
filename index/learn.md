@@ -20,7 +20,6 @@ All links point to content maintained by Microsoft product teams.
 | Azure AI Foundry | https://learn.microsoft.com/en-us/azure/ai-foundry/ |
 | Azure AI Agent Service | https://learn.microsoft.com/en-us/azure/ai-services/agents/ |
 | Azure OpenAI Service | https://learn.microsoft.com/en-us/azure/ai-services/openai/ |
-| Model catalog overview | https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-overview |
 | Azure MCP Server | https://learn.microsoft.com/en-us/azure/developer/azure-mcp-server/overview |
 | Intro to AI agents (MfS Learn) | https://learn.microsoft.com/en-us/microsoft-for-startups/build/intro-agents |
 
@@ -47,7 +46,7 @@ All links point to content maintained by Microsoft product teams.
 | Resource | Link |
 |---|---|
 | Azure Marketplace publisher guide | https://learn.microsoft.com/en-us/azure/marketplace/publisher-guide-by-offer-type |
-| Co-sell with Microsoft | https://learn.microsoft.com/en-us/azure/marketplace/co-sell-overview |
+| Co-sell with Microsoft | https://learn.microsoft.com/en-us/azure/marketplace/ |
 | Azure compliance documentation | https://learn.microsoft.com/en-us/azure/compliance/ |
 
 ## Storage

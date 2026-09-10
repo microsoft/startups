@@ -42,13 +42,13 @@ Each path folder includes an `owners.md` file that records:
 
 Pull requests that add technical claims must include a link
 to an authoritative source (Microsoft Learn or a product-owned repo).
-See [governance/CONTRIBUTING.md](./governance/CONTRIBUTING.md).
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
 ## How to contribute
 
-[Contributing guide](./governance/CONTRIBUTING.md)
+[Contributing guide](./CONTRIBUTING.md)
 
 To request a new link or resource:
 [Link request issue form](./.github/ISSUE_TEMPLATE/link_request.yml)

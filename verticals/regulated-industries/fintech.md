@@ -53,6 +53,6 @@ https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2
 |---|---|
 | Azure compliance: PCI-DSS | https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-pci-dss |
 | Azure compliance: SOC 2 | https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2 |
-| Azure compliance: GDPR | https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-gdpr |
+| Azure compliance: GDPR | https://learn.microsoft.com/en-us/compliance/regulatory/gdpr |
 | Azure Confidential Computing | https://learn.microsoft.com/en-us/azure/confidential-computing/ |
 | Azure compliance overview | https://learn.microsoft.com/en-us/azure/compliance/ |
