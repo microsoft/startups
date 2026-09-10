@@ -1,0 +1,40 @@
+name: PR safety attestation
+
+on:
+  pull_request_target:
+    branches: [master]
+    types: [opened, edited, reopened, synchronize]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    if: github.actor != 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify required PR checklist items
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        with:
+          script: |
+            const body = context.payload.pull_request.body || "";
+            const required = [
+              "Public data and confidentiality",
+              "Secrets and credentials",
+              "Privacy",
+              "Responsible AI",
+              "Sample safety"
+            ];
+            const escaped = (value) =>
+              value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+            const missing = required.filter((label) => {
+              const pattern = new RegExp(
+                `-\\s*\\[[xX]\\]\\s*\\*\\*${escaped(label)}:\\*\\*`
+              );
+              return !pattern.test(body);
+            });
+            if (missing.length > 0) {
+              core.setFailed(
+                `Complete the required PR checklist items: ${missing.join(", ")}`
+              );
+            }

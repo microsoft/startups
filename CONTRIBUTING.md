@@ -51,7 +51,19 @@ Open an issue using the
 ## PR checklist
 
 All pull requests must satisfy the checklist in
-[.github/PULL_REQUEST_TEMPLATE.md](../.github/PULL_REQUEST_TEMPLATE.md).
+[.github/PULL_REQUEST_TEMPLATE.md](./.github/PULL_REQUEST_TEMPLATE.md).
+
+The checklist includes required attestations for public data, credentials,
+privacy, Responsible AI, and secure sample defaults. Automated checks and the
+exception process are documented in
+[SECURITY_TESTING.md](./SECURITY_TESTING.md).
+
+Run the repository-native checks before opening a pull request:
+
+```bash
+python -m unittest discover -s .github/scripts -p "test_*.py"
+python .github/scripts/content_safety.py
+```
 
 ## Voice and tone
 

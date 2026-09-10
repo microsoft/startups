@@ -2,9 +2,9 @@ name: Link checker
 
 on:
   push:
-    branches: [main, "repo-refresh-*"]
+    branches: [master, "repo-refresh-*"]
   pull_request:
-    branches: [main]
+    branches: [master]
   schedule:
     - cron: "0 6 * * 1"  # Every Monday at 6am UTC
 
@@ -12,19 +12,14 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
 
       - name: Check links
-        uses: lycheeverse/lychee-action@2b973e86fc7b1f6b36a93795fe2c9c6ae1118621 # v1.10.0
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
-          args: >
-            --verbose
-            --no-progress
-            --exclude "localhost"
-            --exclude "LINK_TBD"
-            --exclude "aka.ms"
-            --exclude "foundershub.startups.microsoft.com"
-            '**/*.md'
+          args: --no-progress --exclude "localhost" --exclude "LINK_TBD" --exclude "aka.ms" --exclude "foundershub.startups.microsoft.com" '**/*.md' # DevSkim: ignore DS162092
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

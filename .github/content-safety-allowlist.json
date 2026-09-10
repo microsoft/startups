@@ -1,0 +1,18 @@
+{
+  "allow": {
+    "CONFIDENTIAL_MARKING": [
+      "SECURITY_TESTING.md"
+    ],
+    "PRIVACY_EMAIL": [
+      "CODE_OF_CONDUCT.md",
+      "CONTRIBUTING.md",
+      "SECURITY.md"
+    ],
+    "RAI_HIGH_IMPACT_USE": [
+      "SECURITY_TESTING.md"
+    ],
+    "RAI_SAFETY_DISABLED": [
+      "SECURITY_TESTING.md"
+    ]
+  }
+}

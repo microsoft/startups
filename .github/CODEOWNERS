@@ -4,6 +4,11 @@
 # Default owner for all files
 *                               @microsoft-for-startups/dev-marketing
 
+# Security controls and contribution policy
+/.github/                        @microsoft-for-startups/dev-marketing
+/.markdownlint-cli2.jsonc       @microsoft-for-startups/dev-marketing
+/SECURITY_TESTING.md            @microsoft-for-startups/dev-marketing
+
 # Paths — technical review required
 /paths/                         @microsoft-for-startups/dev-marketing
 /paths/04-ai-agents/            @microsoft-for-startups/dev-marketing
