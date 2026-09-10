@@ -12,7 +12,6 @@ Check the official source for current eligibility before building.
 ## Official source
 
 - https://learn.microsoft.com/en-us/azure/ai-foundry/
-- https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-overview
 - https://learn.microsoft.com/en-us/azure/ai-services/openai/
 
 ## Practical next step

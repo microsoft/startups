@@ -18,7 +18,7 @@ Foundry, GitHub, and related Microsoft tooling.
    - [Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/) is the production AI layer: model catalog, agent creation, inference, and observability. Start here before picking a framework.
 
 2. **Choose your model**
-   - Startup credits coverage varies by [model](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-overview). Check the official source for current eligibility before building.
+   - Startup credits coverage varies by [model](https://learn.microsoft.com/en-us/azure/ai-foundry/). Check the official source for current eligibility before building.
 
 3. **Build your first agent**
    - [AI Agents for Beginners — microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)

@@ -36,22 +36,34 @@ We appreciate your understanding and will update as things change in the future.
 ## How to contribute a link or resource
 
 Open an issue using the
-[link request issue form](../.github/ISSUE_TEMPLATE/link_request.yml).
+[link request issue form](./.github/ISSUE_TEMPLATE/link_request.yml).
 
 ## How to contribute a workshop drop
 
-See [workshops/README.md](../workshops/README.md) for the folder
+See [workshops/README.md](./workshops/README.md) for the folder
 structure and content rules.
 
 ## How to report a broken link
 
 Open an issue using the
-[bug report issue form](../.github/ISSUE_TEMPLATE/bug.yml).
+[bug report issue form](./.github/ISSUE_TEMPLATE/bug.yml).
 
 ## PR checklist
 
 All pull requests must satisfy the checklist in
-[.github/PULL_REQUEST_TEMPLATE.md](../.github/PULL_REQUEST_TEMPLATE.md).
+[.github/PULL_REQUEST_TEMPLATE.md](./.github/PULL_REQUEST_TEMPLATE.md).
+
+The checklist includes required attestations for public data, credentials,
+privacy, Responsible AI, and secure sample defaults. Automated checks and the
+exception process are documented in
+[SECURITY_TESTING.md](./SECURITY_TESTING.md).
+
+Run the repository-native checks before opening a pull request:
+
+```bash
+python -m unittest discover -s .github/scripts -p "test_*.py"
+python .github/scripts/content_safety.py
+```
 
 ## Voice and tone
 

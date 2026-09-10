@@ -22,7 +22,7 @@ co-sell, and GTM motions.
    [Enterprise readiness](../05-enterprise-readiness/)
 
 3. **Understand co-sell eligibility**
-   https://learn.microsoft.com/en-us/azure/marketplace/co-sell-overview
+   https://learn.microsoft.com/en-us/azure/marketplace/
    Co-sell eligibility requires an active Marketplace offer and a
      completed solution profile. See official docs for current requirements.
 

@@ -1,0 +1,23 @@
+# Configuration for the lychee link checker.
+# Used by .github/workflows/link-checker.yml.
+
+# Microsoft Learn throttles bursts of requests (HTTP 429), so keep the
+# per-host request rate low and retry before giving up.
+max_concurrency = 8
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+
+host_concurrency = 2
+host_request_interval = "500ms"
+
+# A 429 means the host throttled us, not that the link is broken.
+accept = ["200..=299", "429"]
+
+[hosts."learn.microsoft.com"]
+concurrency = 1
+request_interval = "1s"
+
+[hosts."docs.microsoft.com"]
+concurrency = 1
+request_interval = "1s"

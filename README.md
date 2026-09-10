@@ -58,6 +58,8 @@ official sources linked below.
 
 [Governance](./GOVERNANCE.md)
 
+[Security and content safety checks](./SECURITY_TESTING.md)
+
 ---
 
 *This repo organizes paths and links to official documentation and
