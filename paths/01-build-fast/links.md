@@ -2,6 +2,12 @@
 
 | Resource | Link |
 |---|---|
+| Azure landing zones | https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/ |
+| Azure landing zone design areas | https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas |
+| Platform landing zone implementation options | https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options |
+| Azure RBAC scope | https://learn.microsoft.com/en-us/azure/role-based-access-control/scope-overview |
+| Bicep what-if operation | https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-what-if |
+| Azure Well-Architected Framework | https://learn.microsoft.com/en-us/azure/well-architected/ |
 | Azure App Service | https://learn.microsoft.com/en-us/azure/app-service/ |
 | Azure Container Apps | https://learn.microsoft.com/en-us/azure/container-apps/ |
 | Azure Functions | https://learn.microsoft.com/en-us/azure/azure-functions/ |
