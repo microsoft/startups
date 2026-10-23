@@ -32,14 +32,6 @@ for Startups team members, Startup Advisors, and partners.
 
 ---
 
-## Current drops
-
-| Drop | Contributor | Date |
-|---|---|---|
-| ./2026-05-build/ | Bhaskar Lokanathan, Microsoft for Startups | May 2026 |
-
----
-
 ## Questions?
 
 Open an issue using the

@@ -14,7 +14,7 @@ Foundry, GitHub, and related Microsoft tooling.
 
 ## The path 
 
-1. **Start with Azure AI Foundry**
+1. **Start with Microsoft Foundry**
    - [Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/) is the production AI layer: model catalog, agent creation, inference, and observability. Start here before picking a framework.
 
 2. **Choose your model**

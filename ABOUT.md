@@ -1,8 +1,7 @@
 # About this repo
 
-**Repository:** [github.com/microsoft/startups](https://github.com/microsoft/startups)
-**Maintained by:** Microsoft for Startups Developer Marketing
-**Publishing cadence:** Monthly featured drops + ongoing index updates
+**Repository:** [github.com/microsoft/MicrosoftforStartups](https://github.com/microsoft/MicrosoftforStartups)
+**Maintained by:** Microsoft for Startups
 
 ---
 

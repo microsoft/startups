@@ -19,9 +19,9 @@ https://modelcontextprotocol.io/
 
 | Resource | Link |
 |---|---|
-| Azure MCP Server (docs) | https://learn.microsoft.com/en-us/azure/developer/azure-mcp-server/overview |
+| Azure MCP Server (docs) | https://learn.microsoft.com/azure/developer/azure-mcp-server/overview |
 | Azure MCP Server (GitHub) | https://github.com/Azure/azure-mcp |
-| Microsoft Learn MCP Server | Contact your MfS Startup Advisor for access details |
+| Microsoft Learn MCP Server | https://learn.microsoft.com/training/support/mcp |
 
 ## Where MCP shows up in developer workflows
 

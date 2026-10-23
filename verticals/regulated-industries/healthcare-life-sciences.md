@@ -2,7 +2,7 @@
 
 ## What enterprise buyers expect from HLS startups
 
-Healthcare and life sciences enterprises evaluate startups on:
+Healthcare and life sciences enterprises evaluate startups on*:
 
 - **HIPAA alignment** — data handling, access controls, audit logs
 - **HITRUST certification** — often required for hospital and payer buyers
@@ -10,6 +10,9 @@ Healthcare and life sciences enterprises evaluate startups on:
 - **FDA 21 CFR Part 11** — for software used in clinical or research workflows
 - **Data residency** — patient data must stay within defined regional boundaries
 - **Business Associate Agreement (BAA)** — required before handling PHI on Azure
+
+*Applicable requirements depend on your organization's role, intended use,
+data, jurisdictions, and contractual commitments.
 
 ---
 
@@ -66,3 +69,13 @@ https://learn.microsoft.com/en-us/azure/health-data-services/
 | Azure compliance: HIPAA | https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-hipaa-us |
 | Azure compliance: HITRUST | https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-hitrust |
 | Microsoft for Healthcare overview | https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare |
+
+### Scope and responsibility
+
+These resources are informational and do not determine which laws,
+standards, or contractual requirements apply to your organization.
+
+Azure service certifications, audit reports, and contractual commitments
+do not automatically establish compliance or certification for your
+application or business. Review service coverage, configurations, and
+shared responsibilities with qualified specialists.

@@ -8,7 +8,7 @@ Enterprise buyers in this space evaluate startups on:
 - **Observability and explainability** — AI outputs must be auditable
 - **Integration with existing data stacks** — Databricks, Fabric, Snowflake, dbt
 - **Model governance** — version control, rollback, and drift detection
-- **API reliability and SLA** — horizontal SaaS buyers need 99.9%+ uptime commitments
+- **API reliability and SLA** — horizontal SaaS buyers often look for 99.9%+ uptime commitments
 - **Cost-efficient inference** — GPU costs are a top concern for AI startups
 
 ---
