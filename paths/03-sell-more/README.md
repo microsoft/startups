@@ -13,7 +13,7 @@ co-sell, and GTM motions.
 
 ## The path (recommended order)
 
-1. **Understand Azure Marketplace**
+1. **Understand Microsoft Marketplace**
    https://learn.microsoft.com/en-us/azure/marketplace/publisher-guide-by-offer-type
 
 2. **Meet the enterprise technical baseline**

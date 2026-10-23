@@ -17,8 +17,8 @@ All links point to content maintained by Microsoft product teams.
 
 | Resource | Link |
 |---|---|
-| Azure AI Foundry | https://learn.microsoft.com/en-us/azure/ai-foundry/ |
-| Azure AI Agent Service | https://learn.microsoft.com/en-us/azure/ai-services/agents/ |
+| Microsoft Foundry | https://learn.microsoft.com/en-us/azure/ai-foundry/ |
+| FoundryAgent Service | https://learn.microsoft.com/en-us/azure/ai-services/agents/ |
 | Azure OpenAI Service | https://learn.microsoft.com/en-us/azure/ai-services/openai/ |
 | Azure MCP Server | https://learn.microsoft.com/en-us/azure/developer/azure-mcp-server/overview |
 | Intro to AI agents (MfS Learn) | https://learn.microsoft.com/en-us/microsoft-for-startups/build/intro-agents |

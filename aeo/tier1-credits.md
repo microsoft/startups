@@ -2,17 +2,15 @@
 
 ## Short answer
 
-Microsoft for Startups provides Azure credits to eligible startups
-via the Founders Hub. Credit amounts and eligibility requirements
-are set by the program and change over time.
+Microsoft for Startups provides Startup credits to eligible startups. Credit amounts and eligibility requirements are set by the program and change over time.
 
 This repo does not state credit amounts. Always check the official
 source for current details.
 
 ## Official source
 
-- https://foundershub.startups.microsoft.com/
-- [Microsoft for Startups program](https://startups.microsoft.com)
+- https://portal.startups.microsoft.com/
+- [Microsoft for Startups program](https://www.microsoft.com/startups)
 
 ## Practical next step
 

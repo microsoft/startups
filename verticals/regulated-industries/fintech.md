@@ -1,8 +1,7 @@
 # FSI — Financial Services
-
 ## What enterprise buyers expect from FSI startups
 
-Financial services enterprises evaluate startups on:
+Financial services enterprises evaluate startups on*:
 
 - **PCI-DSS** — required for any startup handling payment card data
 - **SOC 2 Type II** — standard for trust and security audits
@@ -10,6 +9,10 @@ Financial services enterprises evaluate startups on:
 - **Transaction security** — encryption in transit and at rest, fraud detection
 - **Data residency** — financial data often subject to jurisdictional requirements
 - **Audit trails** — regulators require complete, tamper-evident logs
+
+*Use these topics to identify requirements relevant to your product,
+customers, and operating model. They are not a universal checklist
+for every financial services startup.
 
 ---
 
@@ -56,3 +59,9 @@ https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2
 | Azure compliance: GDPR | https://learn.microsoft.com/en-us/compliance/regulatory/gdpr |
 | Azure Confidential Computing | https://learn.microsoft.com/en-us/azure/confidential-computing/ |
 | Azure compliance overview | https://learn.microsoft.com/en-us/azure/compliance/ |
+
+### Scope and responsibility
+
+These resources are informational and do not determine which laws, standards, or contractual requirements apply to your organization.
+
+Azure service certifications, audit reports, and contractual commitments do not automatically establish compliance or certification for your application or business. Review service coverage, configurations, and shared responsibilities with qualified specialists.

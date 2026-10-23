@@ -1,4 +1,4 @@
-# Governance — microsoft/startups
+# Governance — microsoft/MicrosoftforStartups
 
 ## Principle
 

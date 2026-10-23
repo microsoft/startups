@@ -1,6 +1,6 @@
 ﻿# Microsoft for Startups
 
-![Microsoft for Startups](./images/mfs.png)
+![Microsoft for Startups](./images/mfs-github-repo-banner.png)
 
 A developer-first collection of guided paths, curated link indexes,
 and prompt routing pages to help startup developers build, scale,

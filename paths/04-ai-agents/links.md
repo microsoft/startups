@@ -21,8 +21,6 @@
 | Custom Vision | https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/index?WT.mc_id=startups-github-cxa |
 | Face | https://docs.microsoft.com/azure/cognitive-services/face/index?WT.mc_id=startups-github-cxa |
 | Ink Recognizer | https://docs.microsoft.com/azure/cognitive-services/ink-recognizer/index?WT.mc_id=startups-github-cxa |
-| Language Understanding | https://docs.microsoft.com/azure/cognitive-services/luis/index?WT.mc_id=startups-github-cxa |
-| QnA Maker | https://docs.microsoft.com/azure/cognitive-services/qnamaker/index?WT.mc_id=startups-github-cxa |
 | Text Analytics | https://docs.microsoft.com/azure/cognitive-services/text-analytics/index?WT.mc_id=startups-github-cxa |
 | Machine Learning | https://docs.microsoft.com/azure/machine-learning/?WT.mc_id=startups-github-cxa |
 | Azure Bot Service | https://learn.microsoft.com/en-us/azure/bot-service/ |
