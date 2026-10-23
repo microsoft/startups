@@ -1,5 +1,4 @@
 # FSI — Financial Services
-
 ## What enterprise buyers expect from FSI startups
 
 Financial services enterprises evaluate startups on*:
@@ -63,10 +62,6 @@ https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2
 
 ### Scope and responsibility
 
-These resources are informational and do not determine which laws,
-standards, or contractual requirements apply to your organization.
+These resources are informational and do not determine which laws, standards, or contractual requirements apply to your organization.
 
-Azure service certifications, audit reports, and contractual commitments
-do not automatically establish compliance or certification for your
-application or business. Review service coverage, configurations, and
-shared responsibilities with qualified specialists.
+Azure service certifications, audit reports, and contractual commitments do not automatically establish compliance or certification for your application or business. Review service coverage, configurations, and shared responsibilities with qualified specialists.

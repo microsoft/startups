@@ -1,8 +1,6 @@
 # Guided paths
 
-Choose a path based on what you are building or the next problem you
-need to solve. Each path organizes official documentation and maintained
-repositories for startup developers building on Azure.
+Choose a path based on what you are building or the next problem you need to solve. Each path organizes official documentation and maintained repositories for startup developers building on Azure.
 
 ## Choose your path
 
@@ -17,13 +15,9 @@ repositories for startup developers building on Azure.
 
 ## How to use these paths
 
-1. If you are new to Azure or Microsoft for Startups, begin with
-   [Start here](./00-start-here/). Otherwise, choose the path that fits
-   your current goal.
-2. Follow the recommended order within that path. You do not need to
-   complete every path before moving forward.
-3. Use the canonical resources linked from each path for product details.
-   Check its ownership page for maintainers and review dates.
+1. If you are new to Azure or Microsoft for Startups, begin with[Start here](./00-start-here/). Otherwise, choose the path that fits your current goal.
+2. Follow the recommended order within that path. You do not need tocomplete every path before moving forward.
+3. Use the canonical resources linked from each path for product details. Check its ownership page for maintainers and review dates.
 4. Return to this index when you are ready to tackle another goal.
 
 ## Related resources
@@ -35,7 +29,4 @@ repositories for startup developers building on Azure.
 
 ## Content scope
 
-These paths help you find resources; they do not replace product
-documentation. For current pricing, Startup credits, eligibility, service
-availability, and terms, follow the relevant official sources linked
-from each path.
+These paths help you find resources; they do not replace product documentation. For current pricing, Startup credits, eligibility, service availability, and terms, follow the relevant official sources linked from each path.
