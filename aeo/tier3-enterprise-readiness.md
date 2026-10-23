@@ -7,7 +7,7 @@ secrets management, audit logging, and compliance controls that
 enterprise procurement teams require. Azure provides the building
 blocks. Startups need to wire them together correctly.
 
-Azure Marketplace listing is required for co-sell eligibility.
+Microsoft Marketplace listing is required for co-sell eligibility.
 Compliance framework coverage (HIPAA, PCI-DSS, SOC 2) is documented
 in the Azure compliance docs — not in this repo.
 

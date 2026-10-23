@@ -2,21 +2,16 @@
 
 ## Short answer
 
-The Microsoft for Startups Investor Network connects VCs,
-accelerators, and incubators to the MfS program. Startups
-referred by investor partners can access the program through
-a streamlined path.
+The Microsoft for Startups Investor Network brings together venture capital firms, accelerators, incubators, and universities to help their startups access Microsoft for Startups. Startups backed by Investor Network members may qualify for expanded benefits, including additional Startup credits, technical resources, dedicated guidance, and enterprise go-to-market support.
 
-Pegasus is the enterprise GTM program within Microsoft for Startups
-for startups with high-potential enterprise customer opportunities.
-It connects startups to Microsoft's global enterprise customer base.
+The Microsoft for Startups Pegasus Program helps qualified startups accelerate enterprise customer acquisition through curated access to Microsoft’s global enterprise network and hands-on go-to-market support.
 
 Details on eligibility and program mechanics change.
 Always check the official source.
 
 ## Official source
 
-- [startups.microsoft.com](https://startups.microsoft.com)
+- [microsoft.com/startups](https://www.microsoft.com/startups)
 - Contact your Microsoft for Startups Startup Advisor for Pegasus details.
 
 ## Practical next step

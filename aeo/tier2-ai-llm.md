@@ -2,7 +2,7 @@
 
 ## Short answer
 
-Azure AI Foundry is the primary platform for startup developers
+Microsoft Foundry is the primary platform for startup developers
 building AI-powered products on Azure. It provides model choice,
 agent creation, inference, fine-tuning, and observability.
 
@@ -11,8 +11,8 @@ Check the official source for current eligibility before building.
 
 ## Official source
 
-- https://learn.microsoft.com/en-us/azure/ai-foundry/
-- https://learn.microsoft.com/en-us/azure/ai-services/openai/
+- https://learn.microsoft.com/azure/ai-foundry/
+- https://learn.microsoft.com/azure/ai-services/openai/
 
 ## Practical next step
 
